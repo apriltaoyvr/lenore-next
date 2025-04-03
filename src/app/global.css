@@ -3,3 +3,56 @@
 @import 'fumadocs-ui/css/preset.css';
 
 @source '../../node_modules/fumadocs-ui/dist/**/*.js';
+
+/* Flexoki https://stephango.com/flexoki */
+@theme {
+  --color-fd-popover: rgb(255, 252, 240);
+  --color-fd-popover-foreground: rgb(16, 15, 15);
+  --color-fd-secondary-foreground: rgb(16, 15, 15);
+  --color-fd-border: rgb(230, 228, 217);
+  --color-fd-primary: rgb(139, 126, 200);
+  --color-fd-primary-foreground: rgb(16, 15, 15);
+  --color-fd-muted: rgb(242, 240, 229);
+  --color-fd-card: rgb(242, 240, 229);
+  --color-fd-accent: rgb(230, 228, 217);
+  --color-fd-accent-foreground: rgb(16, 15, 15);
+  --color-fd-card-foreground: rgb(16, 15, 15);
+  --color-fd-muted-foreground: rgb(111, 110, 105);
+  --color-fd-foreground: rgb(16, 15, 15);
+  --color-fd-secondary: rgb(242, 240, 229);
+  --color-fd-background: rgb(255, 252, 240);
+  --color-fd-ring: rgb(94, 64, 157);
+}
+
+.dark {
+  --color-fd-background: rgb(16, 15, 15);
+  --color-fd-foreground: rgb(206, 205, 195);
+  --color-fd-ring: rgb(139, 126, 200);
+  --color-fd-primary: rgb(139, 126, 200);
+  --color-fd-popover: rgb(135, 133, 128);
+  --color-fd-card: rgb(28, 27, 26);
+  --color-fd-muted: rgb(28, 27, 26);
+  --color-fd-border: rgb(28, 27, 26);
+  --color-fd-accent: rgb(40, 39, 38);
+  --color-fd-secondary: rgb(28, 27, 26);
+  --color-fd-primary-foreground: rgb(135, 133, 128);
+  --color-fd-card-foreground: rgb(206, 205, 195);
+  --color-fd-secondary-foreground: rgb(206, 205, 195);
+  --color-fd-popover-foreground: rgb(16, 15, 15);
+  --color-fd-accent-foreground: rgb(206, 205, 195);
+  --color-fd-muted-foreground: rgb(135, 133, 128);
+}
+
+#nd-sidebar {
+  --color-fd-secondary: rgb(242, 240, 229);
+  --color-fd-muted: rgb(242, 240, 229);
+}
+
+.dark #nd-sidebar {
+  --color-fd-secondary: rgb(28, 27, 26);
+  --color-fd-muted: rgb(28, 27, 26);
+}
+
+.prose a[target='_blank'] {
+  @apply decoration-fd-primary underline decoration-dotted;
+}

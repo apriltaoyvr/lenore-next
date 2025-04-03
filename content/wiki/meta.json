@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "pages": [
+    "---Introduction---",
+    "fundamentals/exegesis",
+    "fundamentals/main-propositions",
+    "fundamentals/our-difficulties",
+    "fundamentals/function-attitude",
+    "./our-difficulties/",
+    "---Function Attitudes---",
+    "function-attitude/attitudes/",
+    "function-attitude/functions/",
+    "function-attitude/cognitive-stack/",
+    "./sign-interpretation",
+    "---Exegeses and Hypotheses---",
+    "./exegeses/",
+    "./far-flung-explorations/",
+    "---Meta---",
+    "about",
+    "./people-and-systems",
+    "[Original Wiki](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki)",
+    "!index",
+    "!misc"
+  ]
+}
