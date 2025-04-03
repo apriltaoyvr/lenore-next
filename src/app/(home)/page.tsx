@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <main className='flex wrap flex-col place-content-center place-items-center h-[80vh] p-4'>
-      <article className='max-w-prose prose &a[target="_blank"]:decoration-dotted'>
+    <main className='flex place-items-center place-content-center'>
+      <article className='max-w-prose prose p-8 z-50'>
         <hgroup>
           <h1>👋 Welcome</h1>
         </hgroup>
@@ -12,27 +12,40 @@ export default function HomePage() {
           <Link href='https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki'>
             <em>Lenore Thomson Exegesis Wiki</em>
           </Link>{' '}
-          by <Link href='https://wiki.c2.com/?BenKovitz'>Ben Kovitz</Link>. Why do this?
-          You can learn more on the{' '}
+          by <Link href='https://wiki.c2.com/?BenKovitz'>Ben Kovitz</Link>. Why
+          do this? You can learn more on the{' '}
           <Link href='/wiki/about#about-this-site'>About</Link> page.
         </p>
         <h2 id='where-to-start-'>Where to start?</h2>
         <p>
           For those familiar with{' '}
-          <Link href='/wiki/people-and-systems/myers-briggs'>Myers-Briggs</Link> but not{' '}
-          <Link href='/wiki/fundamentals/function-attitude'>function attitudes</Link> or{' '}
-          <Link href='/wiki/people-and-systems/carl-jung'>Jungian functions</Link>, the{' '}
-          <Link href='/wiki/fundamentals/main-propositions'>Main Propositions</Link> and{' '}
-          <Link href='/wiki/exegeses/not-personality'>Not Personality</Link> will
-          be of interest.
+          <Link href='/wiki/people-and-systems/myers-briggs'>Myers-Briggs</Link>{' '}
+          but not{' '}
+          <Link href='/wiki/fundamentals/function-attitude'>
+            function attitudes
+          </Link>{' '}
+          or{' '}
+          <Link href='/wiki/people-and-systems/carl-jung'>
+            Jungian functions
+          </Link>
+          , the{' '}
+          <Link href='/wiki/fundamentals/main-propositions'>
+            Main Propositions
+          </Link>{' '}
+          and <Link href='/wiki/exegeses/not-personality'>Not Personality</Link>{' '}
+          will be of interest.
         </p>
         <p>Otherwise, good starting points would be:</p>
         <ul>
           <li>
-            <Link href='/wiki/fundamentals/main-propositions'>Main Propositions</Link>
+            <Link href='/wiki/fundamentals/main-propositions'>
+              Main Propositions
+            </Link>
           </li>
           <li>
-            <Link href='/wiki/fundamentals/function-attitude'>Function Attitude</Link>
+            <Link href='/wiki/fundamentals/function-attitude'>
+              Function Attitude
+            </Link>
           </li>
           <li>
             <Link href='/wiki/our-difficulties'>Our Difficulties</Link>

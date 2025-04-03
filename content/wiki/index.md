@@ -2,21 +2,6 @@
 title: Introduction
 description: Welcome to the Lenore Thomson exegesis wiki.
 cover: https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3MzgwOTkzODB8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 [Lenore Thomson](/wiki/people-and-systems/lenore-thomson) is the author of [Personality Type: An Owner's Manual](https://www.amazon.com/Personality-Type-Practical-Understanding-Yourself-ebook/dp/B00KLFBMKG), a book that takes the [Myers-Briggs](/wiki/people-and-systems/myers-briggs) personality type system back to its roots in [Jungian](/wiki/people-and-systems/carl-jung) psychology. Or perhaps redefines [Myers-Briggs](/wiki/people-and-systems/myers-briggs) as a vocabulary for analyzing politics and public discourse. We don't really know. On this web site, we try to figure out what she's talking about. You're invited to help (see below).
