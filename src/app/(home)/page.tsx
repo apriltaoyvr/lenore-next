@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <main className='flex wrap flex-col place-content-center place-items-center p-4'>
-      <article className='max-w-prose prose'>
+    <main className='flex wrap flex-col place-content-center place-items-center h-[80vh] p-4'>
+      <article className='max-w-prose prose &a[target="_blank"]:decoration-dotted'>
         <hgroup>
           <h1>👋 Welcome</h1>
         </hgroup>
