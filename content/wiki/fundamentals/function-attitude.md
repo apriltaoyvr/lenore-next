@@ -78,7 +78,7 @@ These four functions are then split into introverted and extraverted functions a
 | [Extraverted Thinking (Te)](/wiki/function-attitude/attitudes/extraverted-thinking)   | [Introverted Thinking (Ti)](/wiki/function-attitude/attitudes/introverted-thinking)   |     |
 | [Extraverted Feeling (Fe)](/wiki/function-attitude/attitudes/extraverted-feeling)     | [Introverted Feeling (Fi)](/wiki/function-attitude/attitudes/introverted-feeling)     |     |
 
-Exactly what a function-attitude _is_ is the main part of the [[our-difficulties/definition-problem|Definition Problem]]. See also [Genus Problem](/wiki/our-difficulties/genus-problem).
+Exactly what a function-attitude _is_ is the main part of the[Definition Problem](/wiki/our-difficulties/definition-problem). See also [Genus Problem](/wiki/our-difficulties/genus-problem).
 
 ---
 

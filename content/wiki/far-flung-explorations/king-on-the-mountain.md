@@ -116,4 +116,4 @@ _What can you find in Lenore's writing that would link this behavior to inferior
 
 ---
 
-See also: [Shallowness](/wiki/shallowness), [Hobby-Horse Personality](https://web.archive.org/web/20080101061125/http://www.dbs2000ad.com/narayan/hobby-horse-personality.htm), [Egghead Personality](https://web.archive.org/web/20080101061125/http://www.dbs2000ad.com/narayan/egghead-personality.htm).\
+See also: [Shallowness](/wiki/shallowness), [Hobby-Horse Personality](https://web.archive.org/web/20080101061125/http://www.dbs2000ad.com/narayan/hobby-horse-personality.htm), [Egghead Personality](https://web.archive.org/web/20080101061125/http://www.dbs2000ad.com/narayan/egghead-personality.htm).

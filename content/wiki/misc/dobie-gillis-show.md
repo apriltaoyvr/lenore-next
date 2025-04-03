@@ -1,6 +1,6 @@
 ---
 title: "Dobie Gillis show"
-alias: "Dobie Gillis show"
+aliases: "Dobie Gillis show"
 description: >-
   An interview on tap3x with Lenore about Introverted vs. Extraverted Judgement
   and the Dobie Gillis show

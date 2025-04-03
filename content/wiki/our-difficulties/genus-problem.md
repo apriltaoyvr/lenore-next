@@ -2,7 +2,7 @@
 title: Genus Problem
 aliases:
   - Genus Problem
-description: The genus problem is the difficulty in telling what sorts of things the are (as well as types, functions, and pretty much all concepts in the Jungian/Myers-BGriggs world)
+description: The genus problem is the difficulty in telling what sorts of things the are (as well as types, functions, and pretty much all concepts in the Jungian/Myers-Briggs world)
 tags:
   - difficulties
 ---

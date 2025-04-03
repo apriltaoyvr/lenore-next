@@ -1,6 +1,6 @@
 ---
 title: "How to Participate Here (Archive)"
-alias: "How to Participate Here (Archive)"
+aliases: "How to Participate Here (Archive)"
 description: Archive of the "How to Participate Here" page. The fundamentals are the same.
 ---
 
