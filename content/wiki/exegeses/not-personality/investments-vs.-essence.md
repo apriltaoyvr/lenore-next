@@ -5,6 +5,7 @@ aliases:
 tags:
   - hypothesis
 ---
+
 Whether they use the terminology of any particular type system or not, people often think that they "are" a certain kind of person and therefore can and cannot do certain things. For example, "I'm a type-A personality, so I can't listen to what anyone else is saying except insofar as it relates to my goals." "I'm an easygoing person, so I'm just going to accept that I don't have any goals and won't accomplish anything." "I just go on gut feelings. I don't reflect or think. That's just the way I am."
 
 Some people call that self-acceptance. Lenore theory suggests that it's self-delusion.

@@ -6,6 +6,7 @@ aliases:
 tags:
   - thinking
 ---
+
 ## Quasi-defining statements
 
 > p. 254: "... Whenever we Think, we're relying on \[our internal criteria and observations]--to organize multiple objects and to establish logical relationships between them."

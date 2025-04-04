@@ -6,6 +6,7 @@ aliases:
 tags:
   - feeling
 ---
+
 This is in the realm of the left brain's selective attention to the things we value, particularly in terms of human relations and relatedness, not necessarily in a sentimental way, but a [rational](/wiki/our-difficulties/terms-with-nonobvious-meanings) way. So, who we befriend, love, hate are reflected here.
 
 ## Quasi-defining statements

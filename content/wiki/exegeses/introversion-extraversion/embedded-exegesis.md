@@ -12,6 +12,7 @@ tags:
   - stub
   - hypothesis
 ---
+
 > [!info] This article is incomplete.
 > You can help us by expanding on this idea.
 

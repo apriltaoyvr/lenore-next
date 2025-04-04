@@ -14,12 +14,13 @@ layout:
     visible: true
   pagination:
     visible: true
-title: "Carl Jung"
+title: 'Carl Jung'
 aliases:
-  - "Carl Jung"
+  - 'Carl Jung'
   - Jung
   - Jungian
 ---
+
 Jung wrote [_Psychological Types_](https://www.amazon.ca/Psychological-Types-Carl-Jung/dp/1138687421), a foundational work behind [Thomson](/wiki/people-and-systems/lenore-thomson)'s Personality Type: An Owner's Manual. One could argue he's the granddaddy of these systems (Thomson's, MBTI, Socionics, etc.).
 
 ---

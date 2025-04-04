@@ -7,6 +7,7 @@ aliases:
 tags:
   - thinking/introverted
 ---
+
 ## Quasi-defining statements
 
 > p. 42: "When we use [Thinking](/wiki/function-attitude/functions/thinking) in an Introverted way, we get a mental image of the logical relationships in an entire system. For example, if we're crocheting an initial into a sweater, we're likely to draw a picture rather than work out the logical relationships analytically."

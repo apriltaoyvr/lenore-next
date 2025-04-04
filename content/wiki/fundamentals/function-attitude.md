@@ -71,8 +71,8 @@ See also [Negotiation Basics](/wiki/exegeses/introversion-extraversion/negotiati
 
 These four functions are then split into introverted and extraverted functions according to how one [orients](/wiki/sign-interpretation/orienting) themselves.
 
-| Extraverted                                            | Introverted                                            |     |
-| ------------------------------------------------------ | ------------------------------------------------------ | --- |
+| Extraverted                                                                           | Introverted                                                                           |     |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
 | [Extraverted Sensation (Se)](/wiki/function-attitude/attitudes/extraverted-sensing)   | [Introverted Sensation (Si)](/wiki/function-attitude/attitudes/introverted-sensing)   |     |
 | [Extraverted Intuition (Ne)](/wiki/function-attitude/attitudes/extraverted-intuition) | [Introverted Intuition (Ni)](/wiki/function-attitude/attitudes/introverted-intuition) |     |
 | [Extraverted Thinking (Te)](/wiki/function-attitude/attitudes/extraverted-thinking)   | [Introverted Thinking (Ti)](/wiki/function-attitude/attitudes/introverted-thinking)   |     |

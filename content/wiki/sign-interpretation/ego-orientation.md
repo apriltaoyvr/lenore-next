@@ -6,6 +6,7 @@ description: What Lenore means by "type" is the Semiotic Attitudes by which a pe
 tags:
   - orienting
 ---
+
 We can take any [[fundamentals/function-attitude|function attitude]] we like, but a [function attitude](/wiki/fundamentals/function-attitude) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
 
 _Te:_ What are _my_ goals, _my_ criteria of progress and success? How shall _I_ constrain affairs to ensure that those goals come about?

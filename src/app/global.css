@@ -53,6 +53,6 @@
   --color-fd-muted: rgb(28, 27, 26);
 }
 
-.prose a[target='_blank'] {
+.prose a[target='_blank'][rel='noreferrer noopener'] {
   @apply decoration-fd-primary underline decoration-dotted;
 }

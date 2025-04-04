@@ -8,6 +8,7 @@ coverY: 0
 tags:
   - fundamentals
 ---
+
 Here are the main propositions from [Personality Type: An Owner's Manual](https://www.amazon.ca/Personality-Type-Practical-Understanding-Yourself-ebook/dp/B00KLFBMKG):
 
 1. Within each person, there is an inherently unresolvable tug-of-war between Extraverted and Introverted [attitudes](/wiki/fundamentals/function-attitude#attitudes): the clash between them creates a healthy ability to adapt and live, bringing out more and more of a person's potential.

@@ -1,8 +1,8 @@
 ---
 description: Who are Katherine Briggs and Isabel Myers? What is the Myers-Briggs (MBTI)?
-title: "Myers-Briggs"
+title: 'Myers-Briggs'
 aliases:
-  - "Myers-Briggs"
+  - 'Myers-Briggs'
   - MBTI
 ---
 

@@ -7,13 +7,14 @@ tags:
   - rhetorical-stance
   - intuition/introverted
 ---
+
 "You can't make me look": a phrase somewhat satirically intended to describe a [dominant](/wiki/dominant-function) [introverted intuition](/wiki/function-attitude/attitudes/introverted-intuition) attitude.
 
-From the Ni standpoint, observation is meaningless until one has first chosen a standpoint, a particular way of interpreting observations. From a dominant-Ni standpoint, just diving into something and _looking_ and seeing whatever you happen to see would be the most horrible possible abnegation of the ego. Just _looking_ would mean making yourself at the mercy of whatever random association came to mind, or, worse, whatever interpretation someone _else_ wanted you to make, for their own purposes. All neutrality and independence would be lost.
+From the Ni standpoint, observation is meaningless until one has first chosen a standpoint, a particular way of interpreting observations. From a dominant-Ni standpoint, just diving into something and *looking* and seeing whatever you happen to see would be the most horrible possible abnegation of the ego. Just *looking* would mean making yourself at the mercy of whatever random association came to mind, or, worse, whatever interpretation someone *else* wanted you to make, for their own purposes. All neutrality and independence would be lost.
 
 The frustration expressed by "You can't make me look" arises from conversations with INJ types that go something like this:
 
-INJ: "How can we really know ____? Who says ____? Who defines ____?"
+INJ: "How can we really know \_**\_? Who says \_\_**? Who defines \_\_\_\_?"
 
 Other Person: "Oh, come ON! Just LOOK!"
 
@@ -31,16 +32,16 @@ This is perhaps true in its extreme form, but remember: "Introverted intuitives 
 
 What it may interest (or just amuse) you to know, is that this tendency, or habit, or obsession, whatever you want to call it -- the one to reframe someone else's perspective for them -- is not, at least in my case, as...honest as it may seem.
 
-I mean, I appreciate that from the outside it *seems* as though I'm orbiting around my Ni (whether someone sees it in [MBTI](/wiki/people-and-systems/myers-briggs) terms or not is beside the point), but most often -- I'd say 99% of the time -- I'm just deflecting the issue back to the person who brought it up and forcing them to start to discuss on my terms, which naturally gives me the opportunity to buy some time to really figure out what my opinion is on the issue; assuming, that is, I care enough to go into my head and pull one out.
+I mean, I appreciate that from the outside it _seems_ as though I'm orbiting around my Ni (whether someone sees it in [MBTI](/wiki/people-and-systems/myers-briggs) terms or not is beside the point), but most often -- I'd say 99% of the time -- I'm just deflecting the issue back to the person who brought it up and forcing them to start to discuss on my terms, which naturally gives me the opportunity to buy some time to really figure out what my opinion is on the issue; assuming, that is, I care enough to go into my head and pull one out.
 
 For INTJs, I'd imagine the need here becomes strategic (what is the right answer strategically; what are the logical consequences of my answer). For me as an INFJ, the need is more emotional -- what's going to align with my value system, and what are the social consequences.
 
 My point in all this is simply that "You Can't Make Me Look" is, in my experience, largely tactical. It's not an authentic expression of Ni. For that, Ni would have to be supported by an energized and activated [secondary function](/wiki/function-attitude/cognitive-stack/secondary-function); Te for the INTJs and Fe for INFJs.
 
-And if *that* was happening, there wouldn't be any "You Can't Make Me Look" in the first place. The INTJ would gladly look. So would the INFJ.
+And if _that_ was happening, there wouldn't be any "You Can't Make Me Look" in the first place. The INTJ would gladly look. So would the INFJ.
 
 This brings up something else I've arrived at, sadly in some ways:
 
-Of all the functions, it's *impossible* for people to understand Ni, because it defies understanding. It's very existence is a paradox. Even Ni's don't understand it. To understand Ni would require getting outside Ni. It would require some kind of...meta Ni. And meta Ni is Zen. Seriously -- Zen *is* Ni. Every INTJ and INFJ is a Zen Master.
+Of all the functions, it's _impossible_ for people to understand Ni, because it defies understanding. It's very existence is a paradox. Even Ni's don't understand it. To understand Ni would require getting outside Ni. It would require some kind of...meta Ni. And meta Ni is Zen. Seriously -- Zen _is_ Ni. Every INTJ and INFJ is a Zen Master.
 
 French toast, please.

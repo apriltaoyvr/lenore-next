@@ -2,10 +2,11 @@
 title: Shallowness
 aliases:
   - Shallowness
-description: "Hypothesis: Extraversion is shallowness."
+description: 'Hypothesis: Extraversion is shallowness.'
 tags:
   - extraversion
 ---
+
 _Shallowness_, for purposes of this page, is interest in the lowest common denominator of human concerns, especially social status.
 
 The shallow side of life comprises: concern with looking beautiful or attractive to others, physical stimulation and pleasure (hedonism), winning at competition, one-upmanship, being an important person (i.e. more important than other people), social dominance and power over others, accumulating material wealth far beyond what you need for physical well-being, being thought intelligent/deep/insightful by others, getting your way right now simply because it's what you want (and so not listening to objections), keeping up with the Joneses, being a slave to fashion, saying politically correct things that you don't believe in for fear of losing the loyalty of your friends, getting away with unethical things as long as you're sure you won't get caught or you're sure that your friends will approve or wink in admiration (using social approval as a substitute for your own ethical judgement), sacrificing everything for the sake of a higher salary, making legalistic arguments that technically make sense and "win" in some recognized court but disregard the matters of real concern in a conflict, refusing to change your mind for fear that others will stop perceiving you as an authority, narrow-mindedness, limiting your company to people who agree with you, conspicuous consumption, judging people on the basis of things like whether they're wearing a brown belt with black shoes, vanity in general.

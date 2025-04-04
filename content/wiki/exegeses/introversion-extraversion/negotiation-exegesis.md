@@ -12,6 +12,7 @@ tags:
   - extraversion
   - introversion
 ---
+
 ## Exegesis
 
 From an extraverted perspective, you see everything that someone does as an attempt to negotiate with others.

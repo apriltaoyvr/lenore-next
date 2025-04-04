@@ -7,7 +7,7 @@ description: Archive of the "About This Wiki" page
 
 ## What this wiki is about
 
-This wiki is for understanding [Lenore Thomson](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/Lenore_Thomson)'s ideas about [psychological type](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/psychological_type), mostly as described in her book [Personality Type: An Owner's Manual](https://web.archive.org/web/20071014043137/http://www.amazon.com/exec/obidos/ASIN/0877739870/ref=ase_greenlightwik-20), and partly as she's talked about them on various Internet discussion lists.
+This wiki is for understanding [Lenore Thomson](/wiki/people-and-systems/lenore-thomson)'s ideas about [psychological type](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/psychological_type), mostly as described in her book [Personality Type: An Owner's Manual](http://www.amazon.com/exec/obidos/ASIN/0877739870/ref=ase_greenlightwik-20), and partly as she's talked about them on various Internet discussion lists.
 
 By [exegesis](/wiki/fundamentals/exegesis), we do not simply mean "What did Lenore mean?" but rather "What is she talking about?" We don't aim to nail down precisely what is or was in Lenore's head. Rather, we aim to see for ourselves some of the same things that she is seeing and describing. Naturally, each person will see such things in his or her own way.
 
@@ -23,4 +23,4 @@ This wiki is hosted by [Ben Kovitz](https://web.archive.org/web/20071014043137/h
 
 ## About the Logo
 
-If you're curious about the logo for _The Lenore Thomson Exegesis Wiki_, it's a redrawn figure from the Rider-Waite Tarot deck. For a hint about why that seemed an appropriate choice, see [Tea Leaves and Tarot Cards](/wiki/tea-leaves-and-tarot-cards).\
+If you're curious about the logo for _The Lenore Thomson Exegesis Wiki_, it's a redrawn figure from the Rider-Waite Tarot deck. For a hint about why that seemed an appropriate choice, see [Tea Leaves and Tarot Cards](/wiki/far-flung-explorations/tea-leaves-and-tarot-cards).

@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <main className='flex place-items-center place-content-center'>
-      <article className='max-w-prose prose p-8 z-50'>
+    <main className='flex place-content-center place-items-center'>
+      <article className='prose z-50 max-w-prose p-8'>
         <hgroup>
           <h1>👋 Welcome</h1>
         </hgroup>

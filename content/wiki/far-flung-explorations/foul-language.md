@@ -6,6 +6,7 @@ description: Why do people get so upset about people saying certain arbitrary co
 tags:
   - feeling/extraverted
 ---
+
 Some people find the notion of swear words nonsensical. Words that are part of the language, but you're not supposed to say them? Then why have them in the language? Why do people get so upset about people saying certain arbitrary combinations of sounds? What *harm* could there possibly be in saying a certain word--a word that means exactly the same thing as a "polite" synonym?
 
 ## Hypothesis: Swear words are [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling) vocabularity for anti-socialness

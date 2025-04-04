@@ -7,6 +7,7 @@ tags:
   - not-series
   - hypothesis
 ---
+
 In place of [[people-and-systems/carl-jung|Carl Jung]] world speaks of "mental processes", or, more recently, "cognitive processes".
 
 On this page, we propose that [Lenore](/wiki/people-and-systems/lenore-thomson)'s concepts, even though they use the exact same names, are subtly but profoundly different from what the phrase "cognitive processes" suggests (and at least some of what the surrounding writings and conversations suggest).
@@ -73,7 +74,7 @@ And yet there is some important commonality with "cognitive processes" or "gear-
 
 > It may be noted that a sense of self is a cognitive phenomenon. This is why Jung's theory doesn't traffic in social stereotypes. Rather, it recognizes four cognitive standpoints, which exist in all of us. Jung called these standpoints functions, naming them as [Sensation](/wiki/function-attitude/functions/sensation), [Intuition](/wiki/function-attitude/functions/intuition), [Feeling](/wiki/function-attitude/functions/feeling), and [Thinking](/wiki/function-attitude/functions/thinking). These terms don't refer, in any way, to the entire human psyche. They don't mean senses, imagination, emotion, and intellect.
 > To have a psychological type means that one of these four cognitive standpoints has become habituated. We're less aware of options connected with its opposite, and the other standpoints are subordinated to our dominant one, supporting our goals, or balancing them with information that is less immediately conscious.
-> Although these choices will certainly favor our chemistry, our proclivity to anxiety or aggression, our interests, our fears, and our abilities, they also reflect the expectations of others, the possibilities we recognize or create for ourselves, and the gradual development of our character -- the standards we maintain, even when they *don't* favor our immediate affective needs.
+> Although these choices will certainly favor our chemistry, our proclivity to anxiety or aggression, our interests, our fears, and our abilities, they also reflect the expectations of others, the possibilities we recognize or create for ourselves, and the gradual development of our character -- the standards we maintain, even when they _don't_ favor our immediate affective needs.
 
 Lenore, [What is Psychological Type](https://www.personalitypathways.com/thomson.html)?
 

@@ -1,5 +1,5 @@
 ---
-description: "The Definition Problem leads some of us to wonder: what sorts of real-world observations lead to drawing the distinctions of type theory and framing its propositions?"
+description: 'The Definition Problem leads some of us to wonder: what sorts of real-world observations lead to drawing the distinctions of type theory and framing its propositions?'
 title: Type From Scratch
 aliases:
   - Type From Scratch

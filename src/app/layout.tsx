@@ -5,13 +5,13 @@ import type { ReactNode } from 'react';
 
 const bricolage = Bricolage_Grotesque({
   subsets: ['latin'],
-  display: 'swap'
-})
+  display: 'swap',
+});
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" className={bricolage.className} suppressHydrationWarning>
-      <body className="flex flex-col min-h-screen">
+    <html lang='en' className={bricolage.className} suppressHydrationWarning>
+      <body className='flex min-h-screen flex-col'>
         <RootProvider>{children}</RootProvider>
       </body>
     </html>

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+.yarn
+package-lock.json
+pnpm-lock.yaml
+
+# Next.js + Fumadocs
+.next 
+.source
+
+# Obsidian
+.obsidian
+.trash

@@ -7,6 +7,7 @@ tags:
   - hypothesis
   - cognitive-stack
 ---
+
 Here are some ideas about the kinds of shifts in perspective that [Lenore](/wiki/people-and-systems/lenore-thomson) might be referring to when she speaks of using the [Secondary Function](/wiki/function-attitude/cognitive-stack/secondary-function) to support a dominant "agenda" vs. using the [Secondary Function](/wiki/function-attitude/cognitive-stack/secondary-function) to genuinely broaden your perspective.
 
 ## Examples

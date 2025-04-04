@@ -6,6 +6,7 @@ description: The temptation to explain problems to ourselves in terms of an atti
 tags:
   - cognitive-stack
 ---
+
 The temptation, when we feel pressure from our [Inferior Function](/wiki/inferior-function), to explain our problems to ourselves in terms of an attitude opposite to our [Secondary Function](/wiki/function-attitude/cognitive-stack/secondary-function). This supports the self-understanding of our [Dominant Function](/wiki/dominant-function) in Extraverted or Introverted terms, whichever we are most accustomed to. This cognitive move doesn't lead us to address the real problems, which would require a more genuine change in perspective; it does, however, restore an inner sense of harmony.
 
 For an exploration of why this is, see [Tertiary Defense](/wiki/function-attitude/cognitive-stack/tertiary-defense).
@@ -26,7 +27,7 @@ Tertiary Fi: "I can't possibly go along with this, because it would mar my soul.
 
 ### For extraverts
 
-For extraverts, the **Tertiary Temptation** arises when [Orienting ](/wiki/sign-interpretation/orienting)by socially defined expectations is failing them. To find their way, they need an independent integrity or awareness, which cannot be developed by understanding oneself solely in terms of how people respond to you. The [Tertiary Function](/wiki/function-attitude/cognitive-stack/tertiary-function) provides a way of [Orienting ](/wiki/sign-interpretation/orienting)in an Extraverted way--a way of [Orienting ](/wiki/sign-interpretation/orienting)directly opposite to the Introverted discovery that the person's current situation is naturally leading to.
+For extraverts, the **Tertiary Temptation** arises when [Orienting](/wiki/sign-interpretation/orienting) by socially defined expectations is failing them. To find their way, they need an independent integrity or awareness, which cannot be developed by understanding oneself solely in terms of how people respond to you. The [Tertiary Function](/wiki/function-attitude/cognitive-stack/tertiary-function) provides a way of [Orienting](/wiki/sign-interpretation/orienting) in an Extraverted way--a way of [Orienting](/wiki/sign-interpretation/orienting) directly opposite to the Introverted discovery that the person's current situation is naturally leading to.
 
 Tertiary Se: "I'll physically intimidate him. I'll brandish a little power and he'll get back in line. Beneath all our refinement, people are just animals, and let me tell you, this animal will not be denied. I'll go with my gut instinct here. You can't know everything in advance, you have to trust your gut in each moment. Good thing my gut is trustworthy. A person with lesser character wouldn't be able to trust his luck the way I can." The [Secondary Function](/wiki/function-attitude/cognitive-stack/secondary-function) would say: "What is really dangerous here and what's just a paper tiger? What are some options you haven't considered yet only because the current way appears--falsely--to be necessarily so?"
 
@@ -38,7 +39,7 @@ Tertiary Fe: "I'll lay a guilt trip on this guy, tell him all I've done for him 
 
 ## Conversation
 
-I have to admit, I've had a problem with this whole 'tertiary temptation' section for a long time. What's written above seems to imply that this hypothetical IS_P SHOULD imitate cool people, because that's how ISFPs navigate the social world, period...or something like that. Is that what you're trying to tell readers? This whole page has a *golden-straightjacket* feel that's incredibly uncomfortable, I mean you haven't even explained what is so bad about all of these supposedly immature tertiary 'defenses'.
+I have to admit, I've had a problem with this whole 'tertiary temptation' section for a long time. What's written above seems to imply that this hypothetical ISP SHOULD imitate cool people, because that's how ISFPs navigate the social world, period...or something like that. Is that what you're trying to tell readers? This whole page has a _golden-straightjacket_ feel that's incredibly uncomfortable, I mean you haven't even explained what is so bad about all of these supposedly immature tertiary 'defenses'.
 
 -- Someone
 
@@ -62,7 +63,7 @@ Interesting about Walt Whitman. Could you give an example or two of Walt Whitman
 
 -- [Ben Kovitz](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
 
-I don't think I would be of any more help than a quick search on the internet. He was extremely influential in America, he preached about being in touch with one's body, how the part is undistiguishable from the whole, a pretty obvious Se preacher. My guess is that he was an SFP. You could read ["Song of Myself"](https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Song_of_Myself) it gets very Se very quickly.
+I don't think I would be of any more help than a quick search on the internet. He was extremely influential in America, he preached about being in touch with one's body, how the part is undistiguishable from the whole, a pretty obvious Se preacher. My guess is that he was an SFP. You could read ["Song of Myself"](<https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Song_of_Myself>) it gets very Se very quickly.
 
 -- Someone else
 
@@ -87,13 +88,9 @@ To summarize, Fe goals tend to get the INTP's Ti/Si into a [semiotically disori
 With this analysis in mind, it is easy to see how the tertiary temptation affects INFPs also (this might happen when the Te pressures the INFP to stop dreaming and get some results).
 
 - _Fi + Si:_ "I must proceed cautiously into the unknown, or I will just mess up and feel like crap!"
-    
 - _Fi + Ne:_ "I will just improvise until I find a way to connect to this person. If we don't have anything to offer one another, I'll just move on and play with someone else."
-    
 - _Fi + Si (+ inferior Te):_ "If I fail, that'll only prove that I'm not practical, I don't know what I'm talking about, and I can't deliver on what I promise."
-    
 - _Fi + Ne:_ "If I fail, I'll learn something: it'll give me fuel to be creative and think of something new, that probably only I could think of. There's nothing like a difficulty with real stakes involved to spur my creativity!"
-    
 
 **Can the Dominant and Inferior Functions live in harmony?**
 
@@ -104,16 +101,12 @@ This leads to the interesting idea that perhaps the [dominant function](/wiki/do
 I have been thinking about this for a bit and using the above pattern I created the following few bits. Please comment.
 
 - _Ni + Fi + (inferior Se):_ "People do things to satisfy their own bodily needs. They're loud and are trying to get the attention of other people. They're trying to be cool by wearing certain clothes and styling their hair, just like everybody else. I'm not cool, so I shouldn't try. They are mindless and do whatever they want. They don't care about important things. I can't take part in that, because it would be wrong. If they want to do that, they should. I don't, it wouldn't be me."
-    
 
-"You people are styling your hair, buying new clothes, drinking, f*cking, eating and watching TV, indulging every whim and desire. Meanwhile there are important things going on in the world and I know about them. I however can't explain why it's important or what we need to change. So I will retreat and think about it some more until I can."
+"You people are styling your hair, buying new clothes, drinking, f\*cking, eating and watching TV, indulging every whim and desire. Meanwhile there are important things going on in the world and I know about them. I however can't explain why it's important or what we need to change. So I will retreat and think about it some more until I can."
 
 - _Ni + Te:_ "Maybe I'm not cool or practical or down-to-earth in a physical way. Maybe I will know what that is. But I don't need to know, because I can set goals and achieve them. Find ways to relate my ideas to the real world by creating experiments and see how they work. I can commit to my ideas and make them real, so other people can see themselves that they're practical, that they work (or don't)."
-    
 
 "I can start with an idea and experiment to find out if it works, then commit to it and use it to improve the world. My commitment and real world examples will make people feel confident in my abilities and it help them see a better world. Maybe it works, maybe it doesn't. Failure is also a result."
 
 - _Ni + Fi + (inferior Se):_ "People just don't see what is really there. I could pressure them in believing this vision, but that wouldn't be me. It doesn't feel right. So I don't do it. I just set there and think how things could be."
-    
 - _Ni + Te:_ "If I stay in here and don't do things, I will never get to see my ideas working in the real world. I need to get out there and experiment, commit to my working ideas and rethink or scrap the ones that don't work. If I can make a small part of an idea work in the real world then I'm a little further than I was."
-    

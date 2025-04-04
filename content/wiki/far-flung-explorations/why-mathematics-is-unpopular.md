@@ -7,6 +7,7 @@ tags:
   - thinking
   - intuition/introverted
 ---
+
 Mathematics, in particular _pure_ mathematics such as abstract algebra and analysis, is a discipline of ideas. As such, it is not much unlike philosophy. (One observes, in fact, that many mathematicians, from today as well as times past, are philosophers as well.) It is a subject that is best described as the theoretical study of structure, order, and patterns, as well as the study of the logical consequences of objects that are defined with certain properties.
 
 The nature of mathematics necessitates an indifference to whether its ideas have applications to the real world. Since 75% of the United States population are oriented to what is perceivable, it follows that the characteristic disdain of mathematics is not due to mental deficiency. Rather, it is a consequence of one's personality type. This is a fortunate notion, for it implies that _anyone_ can do mathematics. By virtue of having a brain, practically anyone could engage in a serious study of the subject. However, many of the personality types orient people away from mathematical abstraction.

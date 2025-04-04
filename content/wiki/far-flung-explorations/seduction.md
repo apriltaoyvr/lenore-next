@@ -1,7 +1,7 @@
 ---
 description: What does seduction mean in Lenore's terms?
-title: "Seduction"
-aliases: "Seduction"
+title: 'Seduction'
+aliases: 'Seduction'
 ---
 
 Seduction is clearly a Perceiving approach to sexuality. Seduction involves cultivating a firsthand understanding of how to induce someone to desire you sexually, and how to create that desire in that person in a way that they act on it. This understanding can only emerge from the concrete reality of what people actually respond to; understanding how people work exemplifies [introverted thinking](/wiki/function-attitude/attitudes/introverted-thinking). For someone to want to sleep with you, you must as least be able to turn them on sexually. Attracting them sexually and impacting their senses requires [extraverted sensation](/wiki/function-attitude/attitudes/extraverted-sensing). Because of the two main features of seduction—understanding what makes people tick on a sexual level, and using that understanding to influence them—seduction seems to be an ISTP art.

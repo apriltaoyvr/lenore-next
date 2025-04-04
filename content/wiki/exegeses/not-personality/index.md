@@ -9,6 +9,7 @@ tags:
   - not-series
   - hypothesis
 ---
+
 ## Hypothesis: It's not about personality
 
 What dimensions of personality are there? What words describe personality?
@@ -31,6 +32,7 @@ Something unusual about Lenore's writing, compared to most writing about persona
 > Rather, type is the outcome of habituated choices -- our accustomed orientation to incoming information.
 
 Lenore, [What is Psychological Type?](https://www.personalitypathways.com/thomson.html)
+
 ## Then what _is_ [Lenore](/wiki/people-and-systems/lenore-thomson) saying?
 
 Alas, it's tough to pin that down. Hence an entire wiki devoted to [Lenore](/wiki/people-and-systems/lenore-thomson)-[exegesis](/wiki/fundamentals/exegesis).

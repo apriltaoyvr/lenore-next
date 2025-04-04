@@ -2,8 +2,8 @@
 description: >-
   Is there any point to exploring the relationship between psychological type
   and sexuality? Yes.
-title: "Type and Sexuality"
-aliases: "Type and Sexuality"
+title: 'Type and Sexuality'
+aliases: 'Type and Sexuality'
 ---
 
 As Paul James mentions in his long [INTP profile](https://web.archive.org/web/20071014043748/http://www.intp.org/intprofile.html), "sexuality is the one thing whose natural power can break through any type dynamics." Sexuality provides individuals with both extraverted goals and introverted opportunities for development. Hence, issues around sexuality can often be a cause the feeling of "being stuck in life" that [Lenore](/wiki/people-and-systems/lenore-thomson) describes.

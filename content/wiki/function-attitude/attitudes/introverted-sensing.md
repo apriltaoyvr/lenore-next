@@ -39,6 +39,6 @@ From the Si standpoint, the more you're going to depend on something, the more c
 
 (Compare [Extraverted Intuition](/wiki/function-attitude/attitudes/extraverted-intuition), which leads to the exact opposite attitude toward the unknown.)
 
-## Si in the [Inferior Position](/wiki/inferior-function)
+## Si in the Inferior Position
 
 Si provides information about the fixed and stable, the facts / constancies of the universe. At its best, it provides such information as a firm basis for proceeding forward into the world. Where Si occupies the [inferior position](/wiki/inferior-function) (as it does for those with [dominant](/wiki/dominant-function) Ne), it is strongly tainted with unconscious contents. In these cases, Si may manifest as negative/malevolent images of eternal tendencies in people and situations that will not change. Such tendencies may well be present, but inferior Si sees the part as the whole. Inferior Si is also linked to feelings of nostalgia, overwhelmingly vivid internal imagery and a selective recall of facts and memories that are highly emotionally charged.

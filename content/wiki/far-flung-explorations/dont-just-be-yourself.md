@@ -8,6 +8,7 @@ tags:
   - introversion
   - cognitive-stack
 ---
+
 ## Hypotheses
 
 ### Hypothesis #1: "just follow the dominant"

@@ -40,7 +40,9 @@ export default async function Page(props: {
     >
       <hgroup>
         <DocsTitle>{page.data.title}</DocsTitle>
-        <DocsDescription className='mb-4'>{page.data.description}</DocsDescription>
+        <DocsDescription className='mb-4'>
+          {page.data.description}
+        </DocsDescription>
       </hgroup>
       <DocsBody>
         <MDXContent

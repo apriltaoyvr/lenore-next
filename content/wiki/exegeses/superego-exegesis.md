@@ -23,6 +23,7 @@ tags:
   - stub
   - extraversion
 ---
+
 ## A Freudian exegesis
 
 ### Id, Ego, Superego

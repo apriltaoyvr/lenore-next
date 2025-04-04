@@ -2,7 +2,7 @@
 title: Management Hypothesis
 aliases:
   - Management Hypothesis
-description: "A hypothesis that when Lenore writes of extraverted judgement, she means a managerial attitude."
+description: 'A hypothesis that when Lenore writes of extraverted judgement, she means a managerial attitude.'
 tags:
   - judgement
   - hypothesis
