@@ -50,9 +50,9 @@ ISTJs and INTJs often preach "meeting expectations": doing your defined part in 
 
 ESTPs and ENTPs often preach the importance of _understanding_ what you're doing, and that this has got to come from hands-on experience, not lectures and taking notes and junk like that. You have to experiment, get your hands dirty, push things until they break, and then you really know _for yourself_ how they work. See [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking).
 
-ESTJs and ESFJs often preach "knowing what is important to you and taking responsibility for it." If everyone just took care of and protected what mattered to them, we'd all be in fine shape. For example, if everyone locked up their valuables, then there wouldn't be any thieves in this world. See [Introverted Sensation](/wiki/function-attitude/attitudes/introverted-sensing).
+ESTJs and ESFJs often preach "knowing what is important to you and taking responsibility for it." If everyone just took care of and protected what mattered to them, we'd all be in fine shape. For example, if everyone locked up their valuables, then there wouldn't be any thieves in this world. See [Introverted Sensation](../function-attitude/attitudes/introverted-sensation.md).
 
-ISTPs and ISFPs often preach "go with the flow, man." They like to preach that since you can't control the world, you've got to just go with what you feel like doing at each moment, without anticipating the future and without bogging yourself down by trying to be consistent with the past. Have fun _now,_ man, tomorrow you could be hit by a bus. Just "be." See [Extraverted Sensation](/wiki/function-attitude/attitudes/extraverted-sensing).
+ISTPs and ISFPs often preach "go with the flow, man." They like to preach that since you can't control the world, you've got to just go with what you feel like doing at each moment, without anticipating the future and without bogging yourself down by trying to be consistent with the past. Have fun _now,_ man, tomorrow you could be hit by a bus. Just "be." See [Extraverted Sensation](../function-attitude/attitudes/extraverted-sensation.md).
 
 ## Preaching the dominant in indignation
 

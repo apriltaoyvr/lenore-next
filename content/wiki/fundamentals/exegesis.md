@@ -3,6 +3,8 @@ title: Exegesis
 aliases:
   - Exegesis
   - Exegesis Basics
+  - exegesis
+  - exegeses
 description: The word exegesis comes from Greek roots meaning "to lead the way". With Lenore's book, we don't have a guide, so we're just trying a lot of paths.
 cover: https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 tags:

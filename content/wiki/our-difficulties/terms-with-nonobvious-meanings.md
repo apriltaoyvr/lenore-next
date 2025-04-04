@@ -1,15 +1,16 @@
 ---
-description: One of Our Difficulties. Could you help us understand them better?
 title: Terms With Nonobvious Meanings
 aliases:
   - Terms With Nonobvious Meanings
   - rational
   - irrational
   - developing a function
+  - subjective
+  - objective
+description: One of Our Difficulties. Could you help us understand them better?
 tags:
   - difficulties
 ---
-
 Some of us find terms in Lenore's book difficult to attach a clear meaning to. Sometimes the experience is as if there is white-out over the word. Neither context nor prior experience with the word suggests an obvious or definite meaning.
 
 - Functions
@@ -19,9 +20,9 @@ Some of us find terms in Lenore's book difficult to attach a clear meaning to. S
   - [Thinking](/wiki/function-attitude/functions/thinking)
 - [Function Attitudes](/wiki/fundamentals/function-attitude)
 - [Extroversion and Introversion](/wiki/exegeses/introversion-extraversion)
-- Objective and Subjective
-- Rational and Irrational
-- Developing a function
+- [Objective and Subjective](#objective-and-subjective)
+- [Rational and Irrational](#rational-and-irrational)
+- [Developing a function](#developing-a-function)
 - Logical Probabilities
 - Imaginal
 

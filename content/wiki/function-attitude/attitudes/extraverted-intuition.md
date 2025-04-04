@@ -36,7 +36,7 @@ As a [dominant attitude](/wiki/dominant-function):
 
 To live, then, you need to continuously welcome the unknown, by always being ready to adjust in unanticipatable ways. What seems like a mistake is not a mistake when viewed in a larger pattern--and it's your job to find that larger pattern.
 
-(Compare [Introverted Sensation](/wiki/function-attitude/attitudes/introverted-sensing), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
+(Compare [Introverted Sensation](introverted-sensation.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
 
 ### #3: [Orientation](/wiki/sign-interpretation/orienting) by searching
 
@@ -60,7 +60,7 @@ _Some examples_: How would the restaurant industry change if really good, health
 
 ### #5: Snapshot of Reality
 
-Ne is no different from its [Se](/wiki/function-attitude/attitudes/extraverted-sensing) cousin. It creates a singular snapshot of the current state of reality. Unlike Se which is [sensory](/wiki/function-attitude/functions/sensation) based, Ne is everything extra-sensory. This includes everything that senses cannot pickup. (Disclaimer: "Senses" are not limited to just the 5 senses, all additional sense must be included i.e. balance, acceleration, kinesthetic etc.) For Ne primary type ENTP that snapshot is dissected with the [Ti](/wiki/function-attitude/attitudes/introverted-thinking) function to see just how all of it works and fits together, while ENFPs use it to discern how to manipulate human relations and feelings. Einstein's famous thought experiments painted an impossible picture of reality which could then be studied.
+Ne is no different from its [Se](extraverted-sensation.md) cousin. It creates a singular snapshot of the current state of reality. Unlike Se which is [sensory](/wiki/function-attitude/functions/sensation) based, Ne is everything extra-sensory. This includes everything that senses cannot pickup. (Disclaimer: "Senses" are not limited to just the 5 senses, all additional sense must be included i.e. balance, acceleration, kinesthetic etc.) For Ne primary type ENTP that snapshot is dissected with the [Ti](/wiki/function-attitude/attitudes/introverted-thinking) function to see just how all of it works and fits together, while ENFPs use it to discern how to manipulate human relations and feelings. Einstein's famous thought experiments painted an impossible picture of reality which could then be studied.
 
 This is what "outside the box" refers to, because human definition of box is an entirely sensory phenomena, everything is measured in terms of senses. Box defined in [intuition](/wiki/function-attitude/functions/intuition) would relate to this snapshot, which has a specific scope, its also a box. So Ne thinks outside the physical box, but it is within its own mental box. This isn't to say its inferior to true outside the box thinking which is actually [Te](/wiki/function-attitude/attitudes/extraverted-thinking).
 

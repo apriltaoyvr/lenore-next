@@ -16,7 +16,7 @@ The nature of mathematics necessitates an indifference to whether its ideas have
 
 Math departments in universities all over the United States have posters saying, "Math is cool," but they're wrong. The only reason they have to say it is because they and everyone else knows it's false. Math is intrinsically difficult to talk about. It takes a lot of time and training to get to know what the symbols mean and the idioms of the field, and even then, talking about new mathematical ideas requires a great deal of patience.
 
-Thus math does not provide a way to interact with people in a quick, easy-to-understand way. It has little to offer for extraverted interaction. For example, math is not cool, and so cannot provide much appeal from an [extraverted sensation](/wiki/function-attitude/attitudes/extraverted-sensing) standpoint. So you have a proof of Lagrange's theorem? How many people can respond to that? Compare a good proof to a crazy haircut. Which gets more attention among the general population?
+Thus math does not provide a way to interact with people in a quick, easy-to-understand way. It has little to offer for extraverted interaction. For example, math is not cool, and so cannot provide much appeal from an [extraverted sensation](../function-attitude/attitudes/extraverted-sensation.md) standpoint. So you have a proof of Lagrange's theorem? How many people can respond to that? Compare a good proof to a crazy haircut. Which gets more attention among the general population?
 
 ### An extraverted arena where math has an important role
 
@@ -38,6 +38,6 @@ Good math people are just too honest for marketing (which is so utterly, utterly
 
 ### Hypothesis: This is actually Se
 
-Here's why changing the name might illustrate an Se attitude rather than Ni: Because it's bending to the limitations of what people in the culture will pay attention to right now. It adapts to what _is_ perceived as cool. Adapting to (limiting oneself to what's possible within) the present cultural situation: extraversion; making appearance into the primary factor: [extraverted sensation](/wiki/function-attitude/attitudes/extraverted-sensing).
+Here's why changing the name might illustrate an Se attitude rather than Ni: Because it's bending to the limitations of what people in the culture will pay attention to right now. It adapts to what _is_ perceived as cool. Adapting to (limiting oneself to what's possible within) the present cultural situation: extraversion; making appearance into the primary factor: [extraverted sensation](../function-attitude/attitudes/extraverted-sensation.md).
 
 An Ni attitude would lead one to attend to how this choice of name will likely distort people's understanding of math and possibly shape future research directions.

@@ -19,14 +19,14 @@ Perhaps from an extraverted standpoint, your stake in things is in the world:
 - In specific results that you want to achieve ([Extraverted Thinking](/wiki/function-attitude/attitudes/extraverted-thinking))
 - In your standing in the community and your relationships with specific people ([Extraverted Feeling](/wiki/function-attitude/attitudes/extraverted-feeling))
 - In unknown and unrealized potential that you hope to release or make visible ([Extraverted Intuition](/wiki/function-attitude/attitudes/extraverted-intuition))
-- In action and enjoyment right now, doing what comes naturally and obviously, seeing and being seen ([Extraverted Sensation](/wiki/function-attitude/attitudes/extraverted-sensing))
+- In action and enjoyment right now, doing what comes naturally and obviously, seeing and being seen ([Extraverted Sensation](../../function-attitude/attitudes/extraverted-sensation.md))
 
 And perhaps from an introverted standpoint, your stake in things is not defined in terms of something in the world, but in the realization or existence, in any form, of a kind of pattern or way of being:
 
 - In harmony of elements, rational order, emergent design revealing an underlying principle ([Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking))
 - In harmony between living needs and the environment ([Introverted Feeling](/wiki/function-attitude/attitudes/introverted-feeling))
 - In communion with a transcendent reality or with the totality of things, including what cannot be seen or even described ([Introverted Intuition](/wiki/function-attitude/attitudes/introverted-intuition))
-- In faithfulness to the natural order of things ([Introverted Sensation](/wiki/function-attitude/attitudes/introverted-sensing))
+- In faithfulness to the natural order of things ([Introverted Sensation](../../function-attitude/attitudes/introverted-sensation.md))
 
 [Developing a function](/wiki/our-difficulties/terms-with-nonobvious-meanings#developing-a-function), then, would work like this:
 

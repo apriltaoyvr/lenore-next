@@ -19,7 +19,7 @@ Exegeses on what Lenore Thomson might mean by introversion and extraversion, bot
 
 Extraversion is focused on the the external (what is outside of the self), the "other" and [Objective](/wiki/our-difficulties/terms-with-nonobvious-meanings#objective-and-subjective). Introversion is an attitude oriented inwards, towards the self and its [Subjective](/wiki/our-difficulties/terms-with-nonobvious-meanings#objective-and-subjective) ideals.
 
-## [Truth and Language Exegesis](/wiki/exegeses/introversion-extraversion/truth-and-language-exegesis)
+## [Truth and Language Exegesis](../truth-and-language-exegesis.md)
 
 |            | Introversion                                                                                                                                         | Extraversion                                                                                                                 |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |

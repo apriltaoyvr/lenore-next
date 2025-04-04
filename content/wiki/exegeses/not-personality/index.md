@@ -41,7 +41,7 @@ For some overall attempts, see:
 
 - [Main Propositions](/wiki/fundamentals/main-propositions)
 - [Parliament of Attitudes](/wiki/exegeses/parliament-of-attitudes)
-- All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](/wiki/exegeses/introversion-extraversion/truth-and-language-exegesis).
+- All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../truth-and-language-exegesis.md).
 
 ---
 

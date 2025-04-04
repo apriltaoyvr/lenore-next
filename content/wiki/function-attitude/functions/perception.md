@@ -9,20 +9,20 @@ tags:
 
 _Perception attitudes_ are [irrational](/wiki/our-difficulties/terms-with-nonobvious-meanings) attitudes. In other words, they govern seeing concepts as what they are ([Sensation](/wiki/function-attitude/functions/sensation)) and what they could be ([Intuition](/wiki/function-attitude/functions/intuition)).
 
-See [Truth-and-Language Exegesis](/wiki/exegeses/introversion-extraversion/truth-and-language-exegesis).
+See [Truth-and-Language Exegesis](../../exegeses/truth-and-language-exegesis.md).
 
 ## Extraverted Perception
 
 Forms of introverted perception are:
 
-- [Extraverted Sensation](/wiki/function-attitude/attitudes/extraverted-sensing)
+- [Extraverted Sensation](../attitudes/extraverted-sensation.md)
 - [Extraverted Intuition](/wiki/function-attitude/attitudes/extraverted-intuition)
 
 ## Introverted Perception
 
 Forms of introverted perception are:
 
-- [Introverted Sensation](/wiki/function-attitude/attitudes/introverted-sensing)
+- [Introverted Sensation](../attitudes/introverted-sensation.md)
 - [Introverted Intuition](/wiki/function-attitude/attitudes/introverted-intuition)
 
 ## Holistic Spiraling

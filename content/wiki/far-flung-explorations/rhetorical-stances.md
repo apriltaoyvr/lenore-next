@@ -18,7 +18,7 @@ This page attempts to describes the common rhetorical stances that people take. 
 
 ### Other possibilities
 
-- A dogmatic [Si](/wiki/function-attitude/attitudes/introverted-sensing) stance which denies the use of any metaphysical questions
+- A dogmatic [Si](../function-attitude/attitudes/introverted-sensation.md) stance which denies the use of any metaphysical questions
 - A dogmatic [Fi](/wiki/function-attitude/attitudes/introverted-feeling) stance which refuses to judge people at all, or take any side in an argument because the IFP can empathize with both sides
 - A [Fe](/wiki/function-attitude/attitudes/extraverted-feeling) stance that sees someone's opinion as a consequence of their social role
 - A [Ni](/wiki/function-attitude/attitudes/introverted-intuition) stance claiming that because someone's values and preferences are relative to that person's way of looking at the world:

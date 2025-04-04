@@ -49,4 +49,4 @@ If he isn't an ISTJ, he's most likely an INTJ.
 
 ---
 
-See also: [http://urticator.net,](http://www.urticator.net/README) [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](/wiki/function-attitude/attitudes/introverted-sensing)
+See also: [http://urticator.net,](http://www.urticator.net/README) [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](../function-attitude/attitudes/introverted-sensation.md)

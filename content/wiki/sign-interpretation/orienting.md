@@ -30,7 +30,7 @@ From an introverted point of view, you get your bearings by relating the things 
 
 Would it kill you to just ask for directions?
 
-This example uses [Si](/wiki/function-attitude/attitudes/introverted-sensing) to illustrate introversion--orienting oneself by a vocabulary of stable meanings that you relate tangible things to--but the principle applies to all the [Semiotic Attitudes](/wiki/semiotic-attitude).
+This example uses [Si](../function-attitude/attitudes/introverted-sensation.md) to illustrate introversion--orienting oneself by a vocabulary of stable meanings that you relate tangible things to--but the principle applies to all the [Semiotic Attitudes](/wiki/semiotic-attitude).
 
 ### Introverts and extraverts
 

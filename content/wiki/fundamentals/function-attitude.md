@@ -1,12 +1,12 @@
 ---
-description: What are function attitudes? What do they mean to Lenore?
-cover: https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 title: Function Attitude
 aliases:
   - Function Attitude
   - attitude
   - function
   - function attitude
+description: What are function attitudes? What do they mean to Lenore?
+cover: https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 tags:
   - fundamentals
 ---
@@ -33,7 +33,7 @@ These are commonly grouped into **[Perception](/wiki/function-attitude/functions
 | Sensation             | Thinking          |
 | Intuition             | Feeling           |
 
-See [Introversion-Extraversion Exegeses](/wiki/exegeses/introversion-extraversion), in particular [Truth-and-Language Exegesis](/wiki/exegeses/introversion-extraversion/truth-and-language-exegesis) for more information on why this may be.
+See [Introversion-Extraversion Exegeses](/wiki/exegeses/introversion-extraversion), in particular [Truth-and-Language Exegesis](../exegeses/truth-and-language-exegesis.md) for more information on why this may be.
 
 ## Attitudes
 
@@ -43,7 +43,7 @@ Some hypotheses on what introverted and extraverted might mean:
 
 - [Orienting](/wiki/sign-interpretation/orienting)
 - [Introversion-Extraversion Exegeses](/wiki/exegeses/introversion-extraversion)
-  - [Truth-and-Language Exegesis](/wiki/exegeses/introversion-extraversion/truth-and-language-exegesis)
+  - [Truth-and-Language Exegesis](../exegeses/truth-and-language-exegesis.md)
   - [Cocooning-vs.-Conforming Exegesis](/wiki/exegeses/introversion-extraversion/cocooning-vs-conforming-exegesis)
   - [Game-Board Exegesis](/wiki/exegeses/introversion-extraversion/game-board-exegesis)
   - [Negotiation Exegesis](/wiki/exegeses/introversion-extraversion/negotiation-exegesis)
@@ -73,7 +73,7 @@ These four functions are then split into introverted and extraverted functions a
 
 | Extraverted                                                                           | Introverted                                                                           |     |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
-| [Extraverted Sensation (Se)](/wiki/function-attitude/attitudes/extraverted-sensing)   | [Introverted Sensation (Si)](/wiki/function-attitude/attitudes/introverted-sensing)   |     |
+| [Extraverted Sensation (Se)](../function-attitude/attitudes/extraverted-sensation.md)   | [Introverted Sensation (Si)](../function-attitude/attitudes/introverted-sensation.md)   |     |
 | [Extraverted Intuition (Ne)](/wiki/function-attitude/attitudes/extraverted-intuition) | [Introverted Intuition (Ni)](/wiki/function-attitude/attitudes/introverted-intuition) |     |
 | [Extraverted Thinking (Te)](/wiki/function-attitude/attitudes/extraverted-thinking)   | [Introverted Thinking (Ti)](/wiki/function-attitude/attitudes/introverted-thinking)   |     |
 | [Extraverted Feeling (Fe)](/wiki/function-attitude/attitudes/extraverted-feeling)     | [Introverted Feeling (Fi)](/wiki/function-attitude/attitudes/introverted-feeling)     |     |

@@ -9,11 +9,22 @@ export default function HomePage() {
         </hgroup>
         <p>
           This is a revival of the original{' '}
-          <Link href='https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki'>
-            <em>Lenore Thomson Exegesis Wiki</em>
+          <Link
+            href='https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki'
+            target='_blank'
+            rel='noreferrer noopener'
+          >
+            Lenore Thomson Exegesis Wiki
           </Link>{' '}
-          by <Link href='https://wiki.c2.com/?BenKovitz'>Ben Kovitz</Link>. Why
-          do this? You can learn more on the{' '}
+          by{' '}
+          <Link
+            href='https://wiki.c2.com/?BenKovitz'
+            target='_blank'
+            rel='noreferrer noopener'
+          >
+            Ben Kovitz
+          </Link>
+          . Why do this? You can learn more on the{' '}
           <Link href='/wiki/about#about-this-site'>About</Link> page.
         </p>
         <h2 id='where-to-start-'>Where to start?</h2>

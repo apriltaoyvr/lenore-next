@@ -7,7 +7,7 @@ tags:
   - orienting
 ---
 
-We can take any [[fundamentals/function-attitude|function attitude]] we like, but a [function attitude](/wiki/fundamentals/function-attitude) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
+We can take any [function attitude](/wiki/fundamentals/function-attitude) we like, but a [function attitude](/wiki/fundamentals/function-attitude) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
 
 _Te:_ What are _my_ goals, _my_ criteria of progress and success? How shall _I_ constrain affairs to ensure that those goals come about?
 
@@ -39,7 +39,7 @@ Fe: What are the expectations of those in my group and my society? What obligati
 
 Ne: What can I contribute to those around me? What skills, ideas and talents do I have that would improve their condition?
 
-Note: These descriptions nearly mirror those above. Highlighting "Me" and "I" doesn't make the statements solely about ego. Highlighting the attributes that each focus on would (ie. in [[function-attitude/attitudes/extraverted-feeling|Fe]]: "Network of obligations", "relationships", etc...), possibly, would need to deconstruct it further.
+Note: These descriptions nearly mirror those above. Highlighting "Me" and "I" doesn't make the statements solely about ego. Highlighting the attributes that each focus on would (ie. in [Fe](/wiki/function-attitude/attitudes/extraverted-feeling): "Network of obligations", "relationships", etc...), possibly, would need to deconstruct it further.
 
 See [Superego Exegesis](/wiki/exegeses/superego-exegesis).
 

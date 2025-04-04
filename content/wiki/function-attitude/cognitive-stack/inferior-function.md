@@ -57,4 +57,4 @@ In his descriptions of [Introverted Thinking](/wiki/function-attitude/attitudes/
 
 See Taxi Driver.
 
-And then see [[fundamentals/function-attitude|Function Attitude]], [Terms With Nonobvious Meanings](/wiki/our-difficulties/terms-with-nonobvious-meanings), [Cocooning-vs.-Conforming Exegesis](/wiki/exegeses/introversion-extraversion/cocooning-vs-conforming-exegesis).
+And then see [function attitude](/wiki/fundamentals/function-attitude), [Terms With Nonobvious Meanings](/wiki/our-difficulties/terms-with-nonobvious-meanings), [Cocooning-vs.-Conforming Exegesis](/wiki/exegeses/introversion-extraversion/cocooning-vs-conforming-exegesis).

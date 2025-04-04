@@ -4,27 +4,11 @@ aliases:
   - Saints-and-Politicians Exegesis
 description: Introversion and extraversion as being inside or outsider of a social arena
 cover: https://images.unsplash.com/photo-1621861018612-c74d31276217?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzYWludHxlbnwwfHx8fDE3MzgwMzc4ODh8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 tags:
   - exegesis
   - introversion
   - extraversion
 ---
-
 From an extraverted perspective, the social arena you are in is a given; you try to figure out a way to fit into it. From an extraverted perspective, you can't judge the rules of the social arena; you are _in_ the social arena, and there are no thoughts to think except how to get around within the social arena, ways to do well in socially recognized ways, etc.
 
 From an introverted perspective, you see things from a timeless perspective that enables you to criticize the social arena and its rules, and to willingly do good even when it comes with a steep social price.

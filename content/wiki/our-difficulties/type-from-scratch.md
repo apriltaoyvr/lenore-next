@@ -1,13 +1,13 @@
 ---
-description: 'The Definition Problem leads some of us to wonder: what sorts of real-world observations lead to drawing the distinctions of type theory and framing its propositions?'
 title: Type From Scratch
 aliases:
   - Type From Scratch
+description: "The Definition Problem leads some of us to wonder: what sorts of real-world observations lead to drawing the distinctions of type theory and framing its propositions?"
 tags:
   - difficulties
 ---
 
-For example, if we didn't already "know" that someone who tests ESTP has dominant [Extraverted Sensing](/wiki/function-attitude/attitudes/extraverted-sensing) and secondary [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking), what sorts of observations would lead us to figure that out?
+For example, if we didn't already "know" that someone who tests ESTP has dominant [Extraverted Sensing](../function-attitude/attitudes/extraverted-sensation.md) and secondary [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking), what sorts of observations would lead us to figure that out?
 
 ## Some observations that seem to correlate with functions and attitudes
 
@@ -23,7 +23,7 @@ The peculiar disconnect that nearly always happens between INTJs and INTPs. From
 
 Type Clash in general: the specific ways in which people's assumptions about the unwritten rules of conversation or cooperation fail when they encounter people with different assumptions. Lenore's concepts might explain Type Clash in terms of different ways of finding the same things meaningful or meaningless.
 
-The staleness of the Analytic Philosophy world, presumably a magnet for INTJs who don't want to deal with anything tangible or of real consequence. The SFP-like fashion-following of much of academia (well, much of the humanities), where demonstrating that you are intellectually "hip" to all the latest fads and a craving for originality blots out the search for and teaching of timeless insights. Inferior [Extraverted Sensation](/wiki/function-attitude/attitudes/extraverted-sensing)?
+The staleness of the Analytic Philosophy world, presumably a magnet for INTJs who don't want to deal with anything tangible or of real consequence. The SFP-like fashion-following of much of academia (well, much of the humanities), where demonstrating that you are intellectually "hip" to all the latest fads and a craving for originality blots out the search for and teaching of timeless insights. Inferior [Extraverted Sensation](../function-attitude/attitudes/extraverted-sensation.md)?
 
 The peculiar difficulty that INJs often have in giving examples for their ideas. Asking for an example often strikes them as missing the point. Is this because of the way [Introverted Intuitions](/wiki/function-attitude/attitudes/introverted-intuition) "aren't really ideas"?
 

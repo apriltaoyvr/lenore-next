@@ -10,9 +10,9 @@ As Paul James mentions in his long [INTP profile](https://web.archive.org/web/20
 
 What exactly is the relationship between sexuality and type?
 
-## Hypothesis: [Extraverted Sensation](/wiki/function-attitude/attitudes/extraverted-sensing)
+## Hypothesis: [Extraverted Sensation](../function-attitude/attitudes/extraverted-sensation.md)
 
-Sexuality is contained by [extraverted sensation](/wiki/function-attitude/attitudes/extraverted-sensing) and possibly [introverted feeling](/wiki/function-attitude/attitudes/introverted-feeling), because sexuality is sensual and emotional. This hypothesis fits with MBTI because some type profiles describe SFPs as very sexual.
+Sexuality is contained by [extraverted sensation](../function-attitude/attitudes/extraverted-sensation.md) and possibly [introverted feeling](/wiki/function-attitude/attitudes/introverted-feeling), because sexuality is sensual and emotional. This hypothesis fits with MBTI because some type profiles describe SFPs as very sexual.
 
 ### **A possible problem with this hypothesis:**
 
@@ -20,7 +20,7 @@ People can have highly developed Se, but still be sexually repressed. Likewise, 
 
 ## A more refined hypothesis
 
-_Some_ aspects of sexuality are contained by [extraverted sensation](/wiki/function-attitude/attitudes/extraverted-sensing) and [introverted feeling](/wiki/function-attitude/attitudes/introverted-feeling), but sexuality behaves like _another_ [_function attitude_](/wiki/fundamentals/function-attitude). This extra function is related to Se only to the extent that they are both sensual. Hence, we can talk about "developing one's sexuality" like we talk about developing a [function attitude](/wiki/fundamentals/function-attitude).
+_Some_ aspects of sexuality are contained by [extraverted sensation](../function-attitude/attitudes/extraverted-sensation.md) and [introverted feeling](/wiki/function-attitude/attitudes/introverted-feeling), but sexuality behaves like _another_ [_function attitude_](/wiki/fundamentals/function-attitude). This extra function is related to Se only to the extent that they are both sensual. Hence, we can talk about "developing one's sexuality" like we talk about developing a [function attitude](/wiki/fundamentals/function-attitude).
 
 In short, sexuality somehow overlaps with Se and Fi. (and maybe Ti, as [Lenore](/wiki/people-and-systems/lenore-thomson) defines it???)
 
