@@ -1,4 +1,3 @@
-import { source } from '@/lib/source';
 import {
   DocsPage,
   DocsBody,
@@ -8,6 +7,8 @@ import {
 import { notFound } from 'next/navigation';
 import defaultMdxComponents, { createRelativeLink } from 'fumadocs-ui/mdx';
 import { getGithubLastEdit } from 'fumadocs-core/server';
+import { source } from '@/lib/source';
+import { metadataImage } from '@/lib/metadata';
 
 export default async function Page(props: {
   params: Promise<{ slug?: string[] }>;
@@ -69,8 +70,8 @@ export async function generateMetadata(props: {
   const page = source.getPage(params.slug);
   if (!page) notFound();
 
-  return {
+  return metadataImage.withImage(page.slugs, {
     title: page.data.title,
     description: page.data.description,
-  };
+  });
 }

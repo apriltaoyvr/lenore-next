@@ -4,11 +4,20 @@
 
 @source '../../node_modules/fumadocs-ui/dist/**/*.js';
 
-
-.prose a[target='_blank'][rel='noreferrer noopener'] {
-  @apply decoration-fd-primary underline decoration-dotted;
+@theme {
+  --font-bricolage: var(--font-bricolage), sans-serif;
 }
 
-.prose blockquote {
-  @apply text-fd-muted-foreground;
+@layer utilities {
+  body {
+    @apply font-bricolage;
+  }
+
+  .prose a[target='_blank'][rel='noreferrer noopener'] {
+    @apply decoration-fd-primary underline decoration-dotted;
+  }
+  
+  .prose blockquote {
+    @apply text-fd-muted-foreground;
+  }
 }
