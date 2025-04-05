@@ -13,10 +13,15 @@
     @apply font-bricolage;
   }
 
-  .prose a[target='_blank'][rel='noreferrer noopener'] {
-    @apply decoration-fd-primary underline decoration-dotted;
+  .prose a {
+    @apply decoration-1 transition-[text-decoration-thickness] hover:decoration-2;
   }
-  
+
+  .prose a[target='_blank'][rel='noreferrer noopener'] {
+    @apply decoration-fd-primary after:text-fd-muted-foreground underline after:content-['↗'];
+    /* @apply decoration-fd-primary underline decoration-dotted hover:decoration-solid; */
+  }
+
   .prose blockquote {
     @apply text-fd-muted-foreground;
   }

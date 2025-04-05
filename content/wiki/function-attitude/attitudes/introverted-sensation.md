@@ -8,6 +8,7 @@ description: What does Lenore mean by introverted sensation? (Often abbreviated 
 tags:
   - sensation/introverted
 ---
+
 ## Quasi-defining statements
 
 > p. 169: "When we use Introverted Sensation, we don't adjust to our surface perceptions. We package them and take them with us--in the form of facts, numbers, signs, and memories."

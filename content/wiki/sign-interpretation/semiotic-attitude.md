@@ -8,6 +8,7 @@ tags:
   - semiotics
   - fundamentals
 ---
+
 [Semiotics](https://en.wikipedia.org/wiki/Semiotics) is the systematic study of sign processes and the communication of meaning. In semiotics, a sign is defined as anything that communicates intentional and unintentional meaning or feelings to the sign's interpreter.
 
 ## Signs and meanings

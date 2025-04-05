@@ -22,4 +22,4 @@ export default function Layout({ children }: { children: ReactNode }) {
 export const metadata = {
   metadataBase: new URL('https://github.com/apriltaoyvr/lenore-next'),
   description: 'A revival of the original Lenore Thomson Exegesis Wiki',
-}
+};

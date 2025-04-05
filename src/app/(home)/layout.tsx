@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import type { Metadata } from 'next'
+import type { Metadata } from 'next';
 import { HomeLayout } from 'fumadocs-ui/layouts/home';
 import { baseOptions } from '@/app/layout.config';
 
@@ -16,4 +16,4 @@ export default function Layout({ children }: { children: ReactNode }) {
 
 export const metadata: Metadata = {
   title: 'Lenore Thomson Exegesis Wiki',
-}
+};

@@ -7,6 +7,7 @@ tags:
   - difficulties
   - definition-problem
 ---
+
 The _genus problem_ is the difficulty in telling what sorts of things the [attitudes](/wiki/fundamentals/function-attitude) are (as well as types, functions, and pretty much all concepts in the [Jungian](/wiki/people-and-systems/carl-jung)/[Myers-Briggs](/wiki/people-and-systems/myers-briggs) world). It's the main part of the [Definition Problem](/wiki/our-difficulties/definition-problem).
 
 ## What is a genus?

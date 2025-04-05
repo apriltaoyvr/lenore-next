@@ -84,6 +84,9 @@ See [Orientation by Pop Culture](/wiki/orientation-by-pop-culture).
 See also: [Elmer Gantry](https://web.archive.org/web/20070118003610/http://greenlightwiki.com/lenore-exegesis/Elmer_Gantry)
 
 [^1]: Collective term for ESTPs and ESFPs: people for whom [Extraverted Sensation](./extraverted-sensation.md) is their [dominant function](../cognitive-stack/dominant-function.md).
+
 [^2]: Collective term for ISTPs and ISFPs: introverts who relate to the Extraverted arena primarily through Extraverted Sensation but whose [Ego Orientation](/wiki/ego-orientation) works primarily by Introverted [Judgement](../functions/judgement.md).
+
 [^3]: Collective term for ENTJs and ENFJs, who have an Extraverted [Judging](../functions/judgement.md) function ([Te](extraverted-thinking.md) and [Fe](extraverted-feeling.md) respectively) as their [dominant function](../cognitive-stack/dominant-function.md).
+
 [^4]: Types with [Introverted Intuition](./introverted-intuition) as their [dominant function](../cognitive-stack/dominant-function.md).

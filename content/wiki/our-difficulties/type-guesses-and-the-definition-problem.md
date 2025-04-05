@@ -7,6 +7,7 @@ tags:
   - difficulties
   - definition-problem
 ---
+
 A good illustration of the [Definition Problem](/wiki/our-difficulties/definition-problem) is the frequent disagreements on Myers-Briggs-related discussion lists about type guesses of famous people.
 
 If you say that Bill Nye, the Science Guy is an ENTJ and I say he's an ENFP, do we disagree? Not necessarily. Different people often understand the same four-letter codes to mean radically different things.

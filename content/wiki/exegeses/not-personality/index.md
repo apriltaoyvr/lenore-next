@@ -9,6 +9,7 @@ tags:
   - not-series
   - hypothesis
 ---
+
 ## Quasi-defining Statements
 
 > I don't believe that type refers to a person's innate personality characteristics. It isn't the causal source of a person's needs or the behaviors designed to meet them.

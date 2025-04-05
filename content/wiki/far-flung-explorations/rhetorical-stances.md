@@ -6,6 +6,7 @@ description: When people take advantage of different function attitudes, they co
 tags:
   - rhetorical-stance
 ---
+
 This page attempts to describes the common rhetorical stances that people take. These rhetorical stances are not necessarily valid or invalid. Nevertheless, because so many people rely on their [dominant function](/wiki/dominant-function) without [developing the secondary](/wiki/our-difficulties/terms-with-nonobvious-meanings), some rhetorical stances are both very _common_ and very _narrow-minded_. They seem _narrow-minded_, because they exemplify the use of a certain [dominant function](/wiki/dominant-function), but without the perspective of a [secondary function](/wiki/function-attitude/cognitive-stack/secondary-function). Consequently, they can be frustrating to individuals of other types (or even frustrating to individuals of the same type who have succeeded in [developing the secondary](/wiki/our-difficulties/terms-with-nonobvious-meanings), so they lead to the feeling: "I _know_ that this person's position is somehow B.S., but I can't figure out a way to argue with them."
 
 ### Examples of Rhetorical Stances

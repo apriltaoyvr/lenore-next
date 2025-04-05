@@ -7,6 +7,7 @@ tags:
   - difficulties
   - definition-problem
 ---
+
 The [Definition Problem](definition-problem.md) leads some of us to wonder: what sorts of real-world observations lead to drawing the distinctions of type theory and framing its propositions?
 
 For example, if we didn't already "know" that someone who tests ESTP has [dominant](../function-attitude/cognitive-stack/dominant-function.md) [Extraverted Sensing](../function-attitude/attitudes/extraverted-sensation.md) and [secondary](../function-attitude/cognitive-stack/secondary-function.md) [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking), what sorts of observations would lead us to figure that out?

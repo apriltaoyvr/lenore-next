@@ -6,6 +6,7 @@ aliases:
 tags:
   - rhetorical-stance
 ---
+
 What seems relevant and/or persuasive according to one person's way of making sense of things can seem irrelevant and/or illogical from another, and not just because they don't share a common vocabulary for talking about the subject matter. Rhetorical Clash is a [clash](../exegeses/type-clash.md) between the very rules by which people do rhetorical business.
 
 On this page, we try understanding Lenore's [function-attitudes](/wiki/fundamentals/function-attitude) as different "unwritten rules" of how signs relate to their referents.
@@ -90,7 +91,7 @@ Both Pi attitudes look for ways to assign meaning to signs without regard to con
 
 Taking an Si attitude, you look for ways to ensure the integrity of signs and their meanings by taking some measure to stabilize them or finding stability in the world. For example, you declare a notational convention and insist that people adhere to it, you perform safety inspections to filter out causes that could undermine our normal expectations, etc. I imagine that the Alpha-Bravo-Charlie code was invented by someone taking an Si attitude: we are going to make damn sure that we can recognize and trust that the words we hear on noisy radio links stand for the letters that the speaker intended. Saying "alpha" instead of "A" protects the listener's interpretation from the unpredictable context of line noise.
 
-Taking an Ni attitude, you look for a vocabulary of meanings that's independent of the signs and anything they're "supposed to" mean--all the other things that they might *really* mean, which might not even be expressible in terms of the vocabulary that makes sense within the system (or any possible vocabulary). "What is the unsayable truth?" Brain-in-a-vat thought experiments are sort of the extreme of this attitude. The book _Games People Play_ provides a more realistic illustration of taking this attitude: it explores hidden blame games and shameful motives that underlie behavior that, on its surface, appears innocent. Ni leads you to look for a vantage point on sign interpretation that is independent of any given interpretation: you explore conceptual possibility independently of concrete reality.
+Taking an Ni attitude, you look for a vocabulary of meanings that's independent of the signs and anything they're "supposed to" mean--all the other things that they might _really_ mean, which might not even be expressible in terms of the vocabulary that makes sense within the system (or any possible vocabulary). "What is the unsayable truth?" Brain-in-a-vat thought experiments are sort of the extreme of this attitude. The book _Games People Play_ provides a more realistic illustration of taking this attitude: it explores hidden blame games and shameful motives that underlie behavior that, on its surface, appears innocent. Ni leads you to look for a vantage point on sign interpretation that is independent of any given interpretation: you explore conceptual possibility independently of concrete reality.
 
 Both attitudes make you keenly aware of unpredictable, incommensurable, unknowable aspects of things. I think they also tend to lead you to fear them.
 

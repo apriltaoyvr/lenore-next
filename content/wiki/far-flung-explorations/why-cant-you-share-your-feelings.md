@@ -7,6 +7,7 @@ tags:
   - thinking
   - feeling
 ---
+
 From an INFJ's ode to her INTP husband:
 
 > "One thing that stands out to me is asking him how he feels. That question tends to really freak INTPs out. You want to see a deer in the headlights, fire off that question."

@@ -9,6 +9,7 @@ description: What is a "dominant" function? What is its role relative to other f
 tags:
   - cognitive-stack
 ---
+
 The primary [function attitude](/wiki/fundamentals/function-attitude) that a person uses for [Ego Orientation](/wiki/ego-orientation).
 
 In [Lenore](/wiki/people-and-systems/lenore-thomson)'s view, the dominant and [secondary functions](/wiki/function-attitude/cognitive-stack/secondary-function) are opposed enough to cause some internal conflict, but compatible enough that they generate synergy and intelligent adaptation and individuation pretty quickly and easily.

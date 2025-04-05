@@ -7,6 +7,7 @@ aliases:
 tags:
   - intuition/extraverted
 ---
+
 ## Quasi-Defining Statements
 
 > p. 196: "Intuition draws our attention to context and we adapt to sensory events in terms of it."

@@ -8,6 +8,7 @@ tags:
   - exegesis
   - fundamentals
 ---
+
 This attempt takes many liberties, omits a great deal, and probably gets a bunch wrong, but it might also cut to the chase very quickly.
 
 For a quicker attempt to cut to the chase, see [Main Propositions](/wiki/fundamentals/main-propositions).

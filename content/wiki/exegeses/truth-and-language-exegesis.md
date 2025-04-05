@@ -9,6 +9,7 @@ tags:
   - introversion
   - exegesis
 ---
+
 An attempt to describe Lenore's ideas about J-vs.-P attitudes in terms of the way a person understands what it means for a statement to be true and how language refers to things.
 
 ## Left-brain attitudes
@@ -50,6 +51,9 @@ From the standpoint of Introverted Judgement[^4], language is a way of describin
 - From the standpoint of [Introverted Feeling](/wiki/function-attitude/attitudes/introverted-feeling), what does it matter what words mean? What matters is that we are in touch with the life of things in each moment. If saying or hearing words helps you do that, great; if not, don't worry about it. Language is certainly valuable for serving life by enabling us to communicate knowledge and make plans and agreements, but what is really wonderful about language is that we can share our experience of the living soul within us, especially what is unique about each of us. Poetic language, such as songs, excites people to experience the sense of the life within each of them. Poetic language provides a way in which you can share with me your own experience of joy, sadness, your own personal calling, or whatever your unique, living soul created at a certain time. Then I can know something of that, too. Words simply express the person. The specific word choices are not necessarily important. The way in which a person says his words can express as much or more than the words themselves. Even silence can be meaningful. What matters is not the words, but the meaning, and the meaning probably can't be reduced to words. It's something you have to understand by directly experiencing the moment and the person saying them. All understanding of what people say must come through empathy: your personal experience with life, and being able to put yourself in the other person's shoes.
 
 [^1]: [Extraverted Thinking](/wiki/function-attitude/attitudes/extraverted-thinking) and [Extraverted Feeling](/wiki/function-attitude/attitudes/extraverted-feeling)
+
 [^2]: [Introverted Sensation](../../function-attitude/attitudes/introverted-sensation.md) and [Introverted Intuition](/wiki/function-attitude/attitudes/introverted-intuition)
+
 [^3]: [Extraverted Sensation](../../function-attitude/attitudes/extraverted-sensation.md) and [Extraverted Intuition](/wiki/function-attitude/attitudes/extraverted-intuition)
+
 [^4]: [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking) and [Introverted Feeling](/wiki/function-attitude/attitudes/introverted-feeling)

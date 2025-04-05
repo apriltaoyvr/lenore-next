@@ -9,6 +9,7 @@ tags:
   - introversion
   - extraversion
 ---
+
 From an extraverted perspective, the social arena you are in is a given; you try to figure out a way to fit into it. From an extraverted perspective, you can't judge the rules of the social arena; you are _in_ the social arena, and there are no thoughts to think except how to get around within the social arena, ways to do well in socially recognized ways, etc.
 
 From an introverted perspective, you see things from a timeless perspective that enables you to criticize the social arena and its rules, and to willingly do good even when it comes with a steep social price.
