@@ -61,7 +61,7 @@ An Ne perspective leads you to use each new concrete found to shift your way of 
 The meaning of music, then, would relate to Ni in that from an Ni perspective, you might try to represent ways of seeing through music, or use music as a way of exploring new ways of seeing that are not necessitated by any particular life experience. From an Ni perspective, you might come to see music as a way of representing different ways of seeing and thereby making yourself able to carry them around and bring them to life at different times.
 
 _Something I've noticed is that introverts tend to refer to extraverted functions, even their own auxiliaries, as coming from the outside and impinging on them. Such as on this page, "these ways of seeing are experienced as thrust upon you by reality."_
-_Many extraverts I've spoken to do not use metaphors of invasion or outward impingment on inward realities to describe their extraverted functions.This probably goes back to Jung's description of extraversion in general as libido flowing outward to the object. Extraversion is objective investment, not subjective impingement._
+_Many extraverts I've spoken to do not use metaphors of invasion or outward impingment on inward realities to describe their extraverted functions.This probably goes back to [Jung](../people-and-systems/carl-jung.md)'s description of extraversion in general as libido flowing outward to the object. Extraversion is objective investment, not subjective impingement._
 _-- Gib Wallis_
 
 ## Another hypothesis: All introverted attitudes are this way

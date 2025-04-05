@@ -7,7 +7,6 @@ tags:
   - not-series
   - hypothesis
 ---
-
 ## What it's not
 
 Lenore Thomson doesn't offer a bunch of categories to say that some people are inherently this way and other people are inherently that way. She offers no taxonomy of different kinds of talents, nor different kinds of callings, nor different kinds of environments that people need in order to flourish, nor _Gifts Differing_ of any sort. She uses the terms "Extraverted" and "Introverted" to mean something mostly unrelated to whether you're gregarious or reserved. As Lenore uses the four-letter codes, they aren't even a taxonomy of personality types.

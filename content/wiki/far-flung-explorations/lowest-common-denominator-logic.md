@@ -36,4 +36,4 @@ Unmitigated Te runs into problems in real life because fairness is not the same 
 
 See also: [King on the Mountain](./king-on-the-mountain.md), [Shallowness](/wiki/shallowness).
 
-[^1]: Types which use [Extraverted Thinking](../function-attitude/attitudes/extraverted-thinking.md) or [Extraverted Feeling](../function-attitude/attitudes/extraverted-feeling.md) as their dominant attitude
+[^1]: Types which use [Extraverted Thinking](../function-attitude/attitudes/extraverted-thinking.md) or [Extraverted Feeling](../function-attitude/attitudes/extraverted-feeling.md) as their [dominant](../function-attitude/cognitive-stack/dominant-function.md) attitude

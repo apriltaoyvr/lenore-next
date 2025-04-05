@@ -5,6 +5,8 @@ aliases:
   - Judgement
   - introverted judgement
   - extraverted judgement
+  - Ji
+  - Je
 tags:
   - judgement
 ---

@@ -9,6 +9,12 @@ tags:
   - not-series
   - hypothesis
 ---
+## Quasi-defining Statements
+
+> I don't believe that type refers to a person's innate personality characteristics. It isn't the causal source of a person's needs or the behaviors designed to meet them.
+> Rather, type is the outcome of habituated choices -- our accustomed orientation to incoming information.
+
+Lenore Thomson, [What is Psychological Type?](https://www.personalitypathways.com/thomson/index.html)
 
 ## Hypothesis: It's not about personality
 
@@ -26,14 +32,7 @@ Furthermore, everyone actually has _all_ of the above attributes--potentially if
 
 Something unusual about Lenore's writing, compared to most writing about personality, is that it focuses squarely on people's real complexity, including their ability to have opposite attributes even while holding to a complex and ever-refining consistency. Lenore's main idea is not to fit people into categories of behavior, needs, or talents, but to describe ways in which people cut themselves off from and regain access to their full spectrum of ways of thinking and behaving, and why it's necessary to do that.
 
-### Quasi-defining Statements
-
-> I don't believe that type refers to a person's innate personality characteristics. It isn't the causal source of a person's needs or the behaviors designed to meet them.
-> Rather, type is the outcome of habituated choices -- our accustomed orientation to incoming information.
-
-Lenore, [What is Psychological Type?](https://www.personalitypathways.com/thomson.html)
-
-## Then what _is_ [Lenore](/wiki/people-and-systems/lenore-thomson) saying?
+## Then what _is_ Lenore saying?
 
 Alas, it's tough to pin that down. Hence an entire wiki devoted to [Lenore](/wiki/people-and-systems/lenore-thomson)-[exegesis](/wiki/fundamentals/exegesis).
 

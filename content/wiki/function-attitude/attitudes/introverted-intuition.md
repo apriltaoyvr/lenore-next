@@ -106,7 +106,7 @@ The process of Ni reassures the person such intentions are possible, not just on
 
 #### Against this definition
 
-This definition is completely clear and precise. And therefore it runs against the Jungian spirit in Lenore's thought. Whatever introverted intuition is, it can never be captured by a clear definition. Rather, Ni (and all the other function attitudes) is a kind of force within the mind, revealed only in its effects, and always capable of revealing more when it's pushed into new circumstances. Its true essence can never be known—except, perhaps, intuitively, inarticulately.
+This definition is completely clear and precise. And therefore it runs against the [Jungian](../../people-and-systems/carl-jung.md) spirit in Lenore's thought. Whatever introverted intuition is, it can never be captured by a clear definition. Rather, Ni (and all the other function attitudes) is a kind of force within the mind, revealed only in its effects, and always capable of revealing more when it's pushed into new circumstances. Its true essence can never be known—except, perhaps, intuitively, inarticulately.
 
 The reason they are not parallel is the same reason that the sea is not parallel. It doesn't mean anything. You can slice the Whole Sort of General Mish Mash any way you like and you will generally come up with something that someone will call home." Taken from Mostly Harmless. I think that explains how Ni does what it does, and it explains it in a Ni way.
 

@@ -10,7 +10,7 @@ export default function HomePage() {
         <p>
           This is a revival of the original{' '}
           <Link
-            href='https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki'
+            href='https://web.archive.org/web/20110928051522/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki'
             target='_blank'
             rel='noreferrer noopener'
           >

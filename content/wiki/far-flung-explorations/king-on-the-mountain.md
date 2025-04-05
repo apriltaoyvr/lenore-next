@@ -7,7 +7,6 @@ tags:
   - thinking/extraverted
   - rhetorical-stance
 ---
-
 ## A style of conversation
 
 In the _King-on-the-Mountain_ style of conversation, one person (the King) makes a provocative statement, and requires that others refute it or admit to being wrong. The King is the judge of whether any attempted refutation is successful.

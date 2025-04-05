@@ -7,7 +7,6 @@ tags:
   - thinking
   - feeling
 ---
-
 From an INFJ's ode to her INTP husband:
 
 > "One thing that stands out to me is asking him how he feels. That question tends to really freak INTPs out. You want to see a deer in the headlights, fire off that question."
@@ -38,9 +37,9 @@ FJs, by contrast, have shaped themselves to genuinely feel what one _ought_ to f
 
 Paradoxically, this leads to a lack of spontaneity about expression of feeling on the part of ITPs, and genuine spontaneity on the part of EFJs. A person with developed [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling) can trust his emotional response to be OK to share in words, whether it's joy, sadness, fear, or even anger. It might be hard to understand why it's not that way for everyone.
 
-(FJs, especially IFJs, might well not feel what they're supposed to feel about deaths or babies, but Fe typically leads them to wonder if there's something wrong with them. But that's another topic.)
+(FJs, especially IFJs, might well not feel what they're supposed to feel about deaths or babies, but [Fe](../function-attitude/attitudes/extraverted-feeling.md) typically leads them to wonder if there's something wrong with them. But that's another topic.)
 
-ITPs with more developed secondary functions may learn to display appropriate responses to questions about their feelings. By observing people long enough, they may gain a grasp of the basic catalogue of socially acceptable emotional responses, or they might learn to phrase their real feelings in a manner that is more politically correct and possibly watered-down with humor: "I really don't know about puppies with sad eyes... they make me feel so guilty. What do they want from me?!" Such a response allows an ITP's aversion to puppies to still be communicated without alienating people in the process. This behavior is more extraverted, but it is not true [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling) because the ITPs are still not actually feeling the socially acceptable response, nor are they accurately stating their real emotions.
+ITPs with more developed [secondary functions](../function-attitude/cognitive-stack/secondary-function.md) may learn to display appropriate responses to questions about their feelings. By observing people long enough, they may gain a grasp of the basic catalogue of socially acceptable emotional responses, or they might learn to phrase their real feelings in a manner that is more politically correct and possibly watered-down with humor: "I really don't know about puppies with sad eyes... they make me feel so guilty. What do they want from me?!" Such a response allows an ITP's aversion to puppies to still be communicated without alienating people in the process. This behavior is more extraverted, but it is not true [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling) because the ITPs are still not actually feeling the socially acceptable response, nor are they accurately stating their real emotions.
 
 ### Connection to Autism?
 
@@ -50,18 +49,18 @@ A [page on autism](https://monotropism.org/dinah/normal-and-otherwise/README) ha
 
 \*To sum up, in individuals with autism **emotions are not integrated, either internally within the individual or externally within society at large.** They are not adapted to accommodate other people's and may be hard to recognise both for others and for the individual who is experiencing and expressing them. They are not spread thin, so are liable to overload. And, in the absence of reflection emotions are both outside the individual's control and unavailable for enriching the meanings of their memories. "
 
-The link may help explain why INTPs in the [Myers-Briggs](/wiki/people-and-systems/myers-briggs) sense often have tendencies that are similar to Asperger's Syndrome (a high-functioning form of autism). From the standpoint of Lenore's ideas, autism seems to guarantee the poor development of [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling). (although autists still have Fi).
+The link may help explain why INTPs in the [Myers-Briggs](/wiki/people-and-systems/myers-briggs) sense often have tendencies that are similar to Asperger's Syndrome (a high-functioning form of autism). From the standpoint of [Lenore](../people-and-systems/lenore-thomson.md)'s ideas, autism seems to guarantee the poor development of [extraverted feeling](/wiki/function-attitude/attitudes/extraverted-feeling). (although autists still have [Fi](../function-attitude/attitudes/introverted-feeling.md)).
 
-Myers-Briggs often presents [Feeling](/wiki/function-attitude/functions/feeling) in a very simplistic manner: Fi is about experiencing emotions, and Fe is about displaying them. The extraverted/introverted distinction is simply used to denote whether the emotions are being displayed externally, or "bottled up inside." Yet this quote on autism demonstrates why Lenore's distinctions between Fe and Fi have much more explanatory power than Myers-Briggs. The ideas that emotions can be "tuned in" to society (or not) to varying degrees shows that [Feeling](/wiki/function-attitude/functions/feeling) is not just about the experience and display of emotion. Feeling has another dimension: the degree to which emotion is integrated with social expectations and with other people's emotions.
+[Myers-Briggs](../people-and-systems/myers-briggs.md) often presents [Feeling](/wiki/function-attitude/functions/feeling) in a very simplistic manner: [Fi](../function-attitude/attitudes/introverted-feeling.md) is about experiencing emotions, and [Fe](../function-attitude/attitudes/extraverted-feeling.md) is about displaying them. The extraverted/introverted distinction is simply used to denote whether the emotions are being displayed externally, or "bottled up inside." Yet this quote on autism demonstrates why [Lenore](../people-and-systems/lenore-thomson.md)'s distinctions between Fe and Fi have much more explanatory power than [Myers-Briggs](../people-and-systems/myers-briggs.md). The ideas that emotions can be "tuned in" to society (or not) to varying degrees shows that [Feeling](/wiki/function-attitude/functions/feeling) is not just about the experience and display of emotion. Feeling has another dimension: the degree to which emotion is integrated with social expectations and with other people's emotions.
 
 ## INTJs sharing their feelings
 
 INTJs seem to have similar problems showing their real emotions, and these difficulties are probably more than from having undeveloped Fe.
 
-Dominant Ni might lead INTJs to regard all of their feelings with extreme suspicion. Emotions may be a sign of bias and demonstrate a vulnerability to influence from the external, material world. Such bias and vulnerability must be eradicated.
+[Dominant](../function-attitude/cognitive-stack/dominant-function.md) [Ni](../function-attitude/attitudes/introverted-intuition.md) might lead INTJs to regard all of their feelings with extreme suspicion. Emotions may be a sign of bias and demonstrate a vulnerability to influence from the external, material world. Such bias and vulnerability must be eradicated.
 
-Underdeveloped Fi might give INTJs a lack of "self-empathy." Furthermore, tertiary Fi might lead INTJs to refrain from showing emotion, like Vulcans. They might see their emotions as impure mental sludge, not really as a part of themselves.
+Underdeveloped [Fi](../function-attitude/attitudes/introverted-feeling.md) might give INTJs a lack of "self-empathy." Furthermore, [tertiary](../function-attitude/cognitive-stack/tertiary-function.md) Fi might lead INTJs to refrain from showing emotion, like Vulcans. They might see their emotions as impure mental sludge, not really as a part of themselves.
 
-Inferior Se makes INTJs suspicious of anyone's demands on them to display feelings. Such demands would seem like attempts to influence them or push them around.
+[Inferior](../function-attitude/cognitive-stack/inferior-function.md) [Se](../function-attitude/attitudes/extraverted-sensation.md) makes INTJs suspicious of anyone's demands on them to display feelings. Such demands would seem like attempts to influence them or push them around.
 
 Perhaps the difference between INTJs and ITPs when asked to share their feelings is that while ITPs have more apprehension over expressing their feelings, INTJs have trouble acknowledging their feelings in the first place

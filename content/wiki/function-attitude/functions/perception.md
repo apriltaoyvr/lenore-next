@@ -1,14 +1,16 @@
 ---
-description: A page for the perception attitudes (Sensation and Intuition)
 title: Perception
+description: A page for the perception attitudes (Sensation and Intuition)
 aliases:
   - Perception
   - introverted perception
   - extraverted perception
+  - Pe
+  - Pi
 tags:
   - perception
 ---
-_Perception attitudes_ are [irrational](/wiki/our-difficulties/terms-with-nonobvious-meanings) attitudes. In other words, they govern seeing concepts as what they are ([Sensation](/wiki/function-attitude/functions/sensation)) and what they could be ([Intuition](/wiki/function-attitude/functions/intuition)).
+_Perception attitudes_ are [irrational](/wiki/our-difficulties/terms-with-nonobvious-meanings) attitudes. In other words, they govern seeing concepts as what they are ([Sensation](/wiki/function-attitude/functions/sensation)) and what they could be or imply ([Intuition](/wiki/function-attitude/functions/intuition)).
 
 See [Truth-and-Language Exegesis](../../exegeses/truth-and-language-exegesis.md).
 

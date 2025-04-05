@@ -51,7 +51,7 @@ Dealing with spectrum behavior (ala the enneagram levels of development, Big 5s 
 - Schizoid
 - Manic Depressive
 
-In his descriptions of [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking) Jung directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5). This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
+In his descriptions of [Introverted Thinking](/wiki/function-attitude/attitudes/introverted-thinking) [Jung](../../people-and-systems/carl-jung.md) directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5). This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
 
 ---
 

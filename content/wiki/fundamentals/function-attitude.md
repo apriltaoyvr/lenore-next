@@ -5,6 +5,8 @@ aliases:
   - attitude
   - function
   - function attitude
+  - attitudes
+  - function attitudes
 description: What are function attitudes? What do they mean to Lenore?
 cover: https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 tags:
@@ -86,13 +88,13 @@ Exactly what a function-attitude _is_ is the main part of the [Definition Proble
 
 ## [Jung](/wiki/people-and-systems/carl-jung)'s choice of terminology
 
-_Q._ Why did Jung choose the term "function"?
+_Q._ Why did [Jung](../people-and-systems/carl-jung.md) choose the term "function"?
 
 _A._ Perhaps to get psychology to sound like physics or mathematics.
 
 _...any other answers?_
 
-_A._ Jung, _Psychological Types_, p.273: He borrow terms coined by _Otto Gross_. The "primary function" and the "secondary function".
+_A._ [Jung](../people-and-systems/carl-jung.md), _Psychological Types_, p.273: He borrow terms coined by _Otto Gross_. The "primary function" and the "secondary function".
 
 _A._ He probably called it a function because it is a function! A function is an action performed by something, in this case a brain! It makes perfect sense.
 

@@ -6,7 +6,6 @@ aliases:
 tags:
   - meta
 ---
-
 ## About this site
 
 An introduction to the archived Lenore Exegesis Wiki is available at [About This Wiki](/wiki/misc/about-this-wiki-archive) if you're curious about the wiki's primary purpose.

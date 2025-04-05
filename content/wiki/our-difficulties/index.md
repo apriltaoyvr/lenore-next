@@ -40,7 +40,7 @@ See [Introversion-Extraversion Exegeses](../exegeses/introversion-extraversion/i
 - Who is Alice?
   - "When we rely on our [dominant function](dominant-function.md) for all our answers, we usually wind up like Alice, running hard just to stay in place." p. 84
   - It almost certainly is a reference to Alice in Wonderland, namely this passage from *Through the Looking Glass*: "The most curious part of the thing was, that the trees and the other things round them never changed their places at all: however fast they went, they never seemed to pass anything. 'I wonder if all the things move along with us?' thought poor puzzled Alice. And the Queen seemed to guess her thoughts, for she cried, 'Faster! Don't try to talk!'"
-- What are [Altars in the Wilderness](./altars-in-the-wilderness.md)?
+- What are [Altars in the Wilderness](../exegeses/altars-in-the-wilderness.md)?
 
 ---
 

@@ -139,7 +139,7 @@ Far forethought based on inductive reasoning of current social/personal/etc... s
 
 ## Other Quotations
 
-Quoting Jung:
+Quoting [Jung](../../people-and-systems/carl-jung.md):
 
 > In his own special field of work he provokes the most violent opposition, _which he has no notion how to deal with_, unless he happens to be seduced by his primitive affects into acrimonious and fruitless polemics.
 

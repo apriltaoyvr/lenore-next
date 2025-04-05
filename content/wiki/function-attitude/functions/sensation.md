@@ -3,6 +3,9 @@ description: What does Lenore mean by "sensation"? What do Extraverted Sensing a
 title: Sensation
 aliases:
   - Sensation
+  - sensation
+  - sensing
+  - Sensing
 tags:
   - sensation
 ---

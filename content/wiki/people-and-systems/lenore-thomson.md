@@ -7,7 +7,7 @@ aliases:
   - Thomson
 ---
 
-Author of [Personality Type: An Owner's Manual](https://www.amazon.com/Personality-Type-Practical-Understanding-Yourself-ebook/dp/B00KLFBMKG), a book that takes the Myers-Briggs personality type system back to its roots in Jungian psychology. Or perhaps redefines Myers-Briggs as a vocabulary for analyzing politics and public discourse.
+Author of [Personality Type: An Owner's Manual](https://www.amazon.com/Personality-Type-Practical-Understanding-Yourself-ebook/dp/B00KLFBMKG), a book that takes the Myers-Briggs personality type system back to its roots in [Jungian](carl-jung.md) psychology. Or perhaps redefines Myers-Briggs as a vocabulary for analyzing politics and public discourse.
 
 This wiki is an attempt to explore and understand Lenore Thomson's ideas.
 

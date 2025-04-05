@@ -4,12 +4,10 @@ aliases:
   - Philosophical Exegesis
 description: An exegesis that attempts to highlight the main ideas in Lenore's writing
 cover: https://images.unsplash.com/photo-1728852575736-d76338d15b76?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoZXJtaXQlMjBhcnR8ZW58MHx8fHwxNzQyMzQ3OTY4fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
 tags:
   - exegesis
   - fundamentals
 ---
-
 This attempt takes many liberties, omits a great deal, and probably gets a bunch wrong, but it might also cut to the chase very quickly.
 
 For a quicker attempt to cut to the chase, see [Main Propositions](/wiki/fundamentals/main-propositions).
