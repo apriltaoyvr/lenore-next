@@ -11,9 +11,11 @@ tags:
   - fundamentals
 ---
 
-> [!info] Function, attitude, or function-attitude?
-> [Lenore](/wiki/people-and-systems/lenore-thomson) often refers to function-attitudes just as "**functions**", which goes back to [Jung](/wiki/people-and-systems/carl-jung).
-> On this wiki, we lean toward the more intuitively clear word "**attitudes**".
+:::info[Function, attitude, or function-attitude?]
+
+[Lenore](/wiki/people-and-systems/lenore-thomson) often refers to function-attitudes just as "**functions**", which goes back to [Jung](/wiki/people-and-systems/carl-jung). On this wiki, we lean toward the more intuitively clear word "**attitudes**".
+
+:::
 
 A _function-attitude_ is a [Jungian](/wiki/people-and-systems/carl-jung) function used in an extraverted or introverted attitude. Each type uses a combination of the four functions in a preferred order.
 
@@ -55,7 +57,7 @@ Some hypotheses on what introverted and extraverted might mean:
 
 ### Introversion
 
-> _p. 131 "Introverted cultures, such as the ones that exist in some of the asian countries, generally provide a kind of ritualized Extraverted vocabulary, whose use conveys the proper social attitude without compromising individual privacy."_
+> p. 131 "Introverted cultures, such as the ones that exist in some of the asian countries, generally provide a kind of ritualized Extraverted vocabulary, whose use conveys the proper social attitude without compromising individual privacy."
 
 _There is a very small chance that my country is an Introverted society, despite being a western society. How do I know? --Michelini_
 
@@ -71,14 +73,14 @@ See also [Negotiation Basics](/wiki/exegeses/introversion-extraversion/negotiati
 
 These four functions are then split into introverted and extraverted functions according to how one [orients](/wiki/sign-interpretation/orienting) themselves.
 
-| Extraverted                                                                           | Introverted                                                                           |     |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
-| [Extraverted Sensation (Se)](../function-attitude/attitudes/extraverted-sensation.md)   | [Introverted Sensation (Si)](../function-attitude/attitudes/introverted-sensation.md)   |     |
-| [Extraverted Intuition (Ne)](/wiki/function-attitude/attitudes/extraverted-intuition) | [Introverted Intuition (Ni)](/wiki/function-attitude/attitudes/introverted-intuition) |     |
-| [Extraverted Thinking (Te)](/wiki/function-attitude/attitudes/extraverted-thinking)   | [Introverted Thinking (Ti)](/wiki/function-attitude/attitudes/introverted-thinking)   |     |
-| [Extraverted Feeling (Fe)](/wiki/function-attitude/attitudes/extraverted-feeling)     | [Introverted Feeling (Fi)](/wiki/function-attitude/attitudes/introverted-feeling)     |     |
+| Extraverted                                                                           | Introverted                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Extraverted Sensation (Se)](../function-attitude/attitudes/extraverted-sensation.md) | [Introverted Sensation (Si)](../function-attitude/attitudes/introverted-sensation.md) |
+| [Extraverted Intuition (Ne)](/wiki/function-attitude/attitudes/extraverted-intuition) | [Introverted Intuition (Ni)](/wiki/function-attitude/attitudes/introverted-intuition) |
+| [Extraverted Thinking (Te)](/wiki/function-attitude/attitudes/extraverted-thinking)   | [Introverted Thinking (Ti)](/wiki/function-attitude/attitudes/introverted-thinking)   |
+| [Extraverted Feeling (Fe)](/wiki/function-attitude/attitudes/extraverted-feeling)     | [Introverted Feeling (Fi)](/wiki/function-attitude/attitudes/introverted-feeling)     |
 
-Exactly what a function-attitude _is_ is the main part of the[Definition Problem](/wiki/our-difficulties/definition-problem). See also [Genus Problem](/wiki/our-difficulties/genus-problem).
+Exactly what a function-attitude _is_ is the main part of the [Definition Problem](/wiki/our-difficulties/definition-problem). See also [Genus Problem](/wiki/our-difficulties/genus-problem).
 
 ---
 

@@ -6,7 +6,6 @@ aliases:
 tags:
   - rhetorical-stance
 ---
-
 What seems relevant and/or persuasive according to one person's way of making sense of things can seem irrelevant and/or illogical from another, and not just because they don't share a common vocabulary for talking about the subject matter. Rhetorical Clash is clash between the very rules by which people do rhetorical business.
 
 On this page, we try understanding Lenore's [function-attitudes](/wiki/fundamentals/function-attitude) as different "unwritten rules" of how signs relate to their referents.

@@ -1,27 +1,16 @@
 ---
+title: 'Carl Jung'
 description: >-
   Carl Gustav Jung was a Swiss psychiatrist, psychotherapist, psychologist and
   pioneering evolutionary theorist who founded the school of analytical
   psychology.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-title: 'Carl Jung'
 aliases:
   - 'Carl Jung'
   - Jung
   - Jungian
 ---
 
-Jung wrote [_Psychological Types_](https://www.amazon.ca/Psychological-Types-Carl-Jung/dp/1138687421), a foundational work behind [Thomson](/wiki/people-and-systems/lenore-thomson)'s Personality Type: An Owner's Manual. One could argue he's the granddaddy of these systems (Thomson's, MBTI, Socionics, etc.).
+Jung wrote [_Psychological Types_](https://www.amazon.ca/Psychological-Types-Carl-Jung/dp/1138687421), a foundational work behind [Thomson](/wiki/people-and-systems/lenore-thomson)'s Personality Type: An Owner's Manual. One could argue he's the granddaddy of these systems ([Thomson](./lenore-thomson.md)'s, [MBTI](./myers-briggs.md), Socionics, etc.).
 
 ---
 
@@ -49,4 +38,4 @@ If he isn't an ISTJ, he's most likely an INTJ.
 
 ---
 
-See also: [http://urticator.net,](http://www.urticator.net/README) [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](../function-attitude/attitudes/introverted-sensation.md)
+See also: [http://urticator.net](http://www.urticator.net/), [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](../function-attitude/attitudes/introverted-sensation.md)

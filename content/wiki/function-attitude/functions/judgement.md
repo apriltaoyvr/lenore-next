@@ -3,6 +3,8 @@ title: Judgement
 description: A page for the judgement attitudes (Feeling and Thinking)
 aliases:
   - Judgement
+  - introverted judgement
+  - extraverted judgement
 tags:
   - judgement
 ---

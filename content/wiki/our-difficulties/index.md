@@ -8,6 +8,7 @@ tags:
   - difficulties
   - fundamentals
 ---
+
 ## General
 
 - The [Genus Problem](/wiki/our-difficulties/genus-problem): just what are these "[Function Attitudes](/wiki/fundamentals/function-attitude)", anyway?
@@ -24,7 +25,7 @@ tags:
 - What do the introverted and extraverted forms of the same function have to do with each other? For example, [Extraverted Intuition](../function-attitude/attitudes/extraverted-intuition.md) seems to be guessing the whole from seeing a few parts. Introverted Intuition seems to be thinking up alternative interpretations and denying that anything true can be said. Why do those both have the name "intuition"?
   - Speculative answer 1: In the chapter on [Extraverted Intuition](../function-attitude/attitudes/extraverted-intuition.md) and [Introverted Intuition](../function-attitude/attitudes/introverted-intuition.md), they are referred to as "speculative", or being consumed with the process of generating possibilities beyond the immediate. From an introverted orientation, it generates "interpretations". However, from an extroverted orientation, it "hypotheses".
 - What do the introverted forms of the functions all have in common?
-	- Speculative answer: The introverted functions are [subjective](terms-with-nonobvious-meanings.md) and are concerned with 'universal truths'. Where extraverted attitudes rely on contextual objectivity (i.e. What is provable within the context of a situation and/or according to an external standard), introverted attitudes are concerned with underlying principles that can be used across contexts. There is a bit of irony that the [subjective](terms-with-nonobvious-meanings.md) functions search for universal truths and the [objective](terms-with-nonobvious-meanings.md) functions search for contextual truths.
+  - Speculative answer: The introverted functions are [subjective](terms-with-nonobvious-meanings.md) and are concerned with 'universal truths'. Where extraverted attitudes rely on contextual objectivity (i.e. What is provable within the context of a situation and/or according to an external standard), introverted attitudes are concerned with underlying principles that can be used across contexts. There is a bit of irony that the [subjective](terms-with-nonobvious-meanings.md) functions search for universal truths and the [objective](terms-with-nonobvious-meanings.md) functions search for contextual truths.
 - What do the extraverted forms of the functions all have in common?
   - Speculative answer 1: [Objectivity](/wiki/our-difficulties/terms-with-nonobvious-meanings) is the element which ties all of the extraverted attitudes together. Even [extraverted intuition](/wiki/function-attitude/attitudes/extraverted-intuition) starts from an [objective](/wiki/our-difficulties/terms-with-nonobvious-meanings) situation, deriving the [subjective](/wiki/our-difficulties/terms-with-nonobvious-meanings) only as long as an [objective](/wiki/our-difficulties/terms-with-nonobvious-meanings#objective-and-subjective) root is present. [Objectivity](/wiki/our-difficulties/terms-with-nonobvious-meanings#objective-and-subjective) can also be looked at as more extraverted than introverted in that objectivity is viewed as being true and immutable, thus impervious to being changed by one's internal, subjective, or "introverted" analysis.
 - What do extraverts have to gain by developing an introverted attitude? It seems obvious what introverts gain by developing an extraverted attitude: money, power, a social position, etc. Why can't extraverts just focus on their extraverted concerns with no function-related problems?
@@ -33,10 +34,13 @@ tags:
   - We do -ENFP
 
 See [Introversion-Extraversion Exegeses](../exegeses/introversion-extraversion/index.md) for [exegeses](../fundamentals/exegesis.md) on what introversion and extraversion mean in Lenore's terms.
+
 ## Some word choices and metaphors
 
 - Who is Alice?
-- What are Altars In The Wilderness?
+  - "When we rely on our [dominant function](dominant-function.md) for all our answers, we usually wind up like Alice, running hard just to stay in place." p. 84
+  - It almost certainly is a reference to Alice in Wonderland, namely this passage from *Through the Looking Glass*: "The most curious part of the thing was, that the trees and the other things round them never changed their places at all: however fast they went, they never seemed to pass anything. 'I wonder if all the things move along with us?' thought poor puzzled Alice. And the Queen seemed to guess her thoughts, for she cried, 'Faster! Don't try to talk!'"
+- What are [Altars in the Wilderness](./altars-in-the-wilderness.md)?
 
 ---
 

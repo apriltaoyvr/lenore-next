@@ -7,7 +7,6 @@ aliases:
 tags:
   - intuition/extraverted
 ---
-
 ## Quasi-Defining Statements
 
 > p. 196: "Intuition draws our attention to context and we adapt to sensory events in terms of it."
@@ -20,6 +19,7 @@ tags:
 
 As a [dominant attitude](/wiki/dominant-function):
 
+> p. 205: "Building a lifetime of temporary [altars in the wilderness](../../exegeses/altars-in-the-wilderness.md) can, of course, be an honorable choice."
 > p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an Extraverted type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
 
 ---
